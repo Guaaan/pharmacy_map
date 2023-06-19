@@ -21,6 +21,6 @@ def divide_json_file(json_file, num_files):
 
 # Ejemplo de uso
 json_file = "farmacias.json"
-num_files = 24
+num_files = 32
 
 divide_json_file(json_file, num_files)

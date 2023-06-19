@@ -1,5 +1,6 @@
 import logging
 import pandas as pd
+from time import sleep
 import requests
 import json
 
@@ -26,32 +27,35 @@ def get_pharmacy_data(pharmacy_im, lt, lg, tp):
         'sec-ch-ua-mobile': '?0',
         'sec-ch-ua-platform': '"macOS"'
     }
-    response = None
     try:
-        response = requests.post(url, headers=headers,
-                                 data=payload, timeout=10)
-    # Resto del código...
-    except requests.exceptions.ConnectionError as e:
-        print("CONNECTION ERROR: ")
-        logging.error("Error de conexión: {}".format(str(e)))
-    if response.ok and response is not None:
-        json_data = response.json()
-        if json_data is not None and 'respuesta' in json_data and 'local' in json_data['respuesta']:
-            return json_data
-    return
+        response = requests.post(url, headers=headers, data=payload, timeout=10)
+        response.raise_for_status()  # Verificar si la respuesta tiene un estado de error
+        print(response.status_code)
+        if response.ok and response.text is not None:
+            json_data = response.json()
+            if json_data is not None and 'respuesta' in json_data and 'local' in json_data['respuesta']:
+                return json_data
+    except requests.exceptions.RequestException as e:
+        print("Error de conexión:", e)
+    except requests.exceptions.Timeout:
+        print("Tiempo de espera agotado. Intenta nuevamente más tarde.")
+    
+    return None
 
 
 # Lista de farmacias
 # get_pharmacies()
 locales = []
 # Leer el archivo JSON y almacenar su contenido en la variable farmacias
-with open("output_0.json", "r") as file:
+with open("farmacias.json", "r") as file:
     farmacias = json.load(file)
     for f in farmacias:
         locales.append(f)
+file.close()
 
 # Nombre del archivo CSV de salida
-archivo_csv = "datos_farmacias0.csv"
+archivo_csv = "datos_farmacias_total.csv"
+archivo_json = "datos_farmacias_total.json"
 
 # Realizar el bucle for y escribir los resultados en el archivo CSV
 
@@ -64,18 +68,22 @@ datos_farmacias = []
 
 # Contador de errores
 error_count = 0
-
+total_locales = len(locales)
 # for frm in farmacias["respuesta"]["locales"]:
-for frm in locales:
+for i, frm in enumerate(locales):
     try:
         im = frm["im"]
         lt = frm["lt"]
         lg = frm["lg"]
         tp = frm["tp"]
+        porcentaje = (i + 1) / total_locales * 100
 
+        # Mostrar el porcentaje
+        print("Porcentaje completado: {:.2f}%".format(porcentaje))
         # Obtener los datos de la farmacia
         if im is not None and lt is not None and lg is not None and tp is not None:
-            current = get_pharmacy_data(im, lt, lg, tp)
+            pharmacy_data = get_pharmacy_data(im, lt, lg, tp)
+            current = pharmacy_data
         else:
             pass
         if current is not None and 'respuesta' in current and 'local' in current['respuesta']:
@@ -89,8 +97,13 @@ for frm in locales:
             cm = respuesta['cm']
             tl = respuesta['tl']
             at = respuesta['at']
-            horario = current['respuesta']['horario']
-            print([im, nm, dr, rg, cm, tl, at, horario])
+            horario = {}
+            if current['respuesta']['horario']:
+                horario = current['respuesta']['horario']
+            else:
+                horario={}
+            
+            # print([im, nm, dr, rg, cm, tl, at, horario])
             # Agregar los datos a la lista
             try:
                 datos_farmacias.append([im, nm, dr, rg, cm, tl, at, horario])
@@ -111,7 +124,7 @@ data = pd.DataFrame(
 
 # Escribir el DataFrame en un archivo CSV
 data.to_csv(archivo_csv, index=False)
-with open("datos_farmacias0.json", "w") as file:
+with open(archivo_json, "w") as file:
     json.dump(datos_farmacias, file)
 
 # Registrar el número de errores

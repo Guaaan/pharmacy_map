@@ -25,3 +25,11 @@
 2023-06-16 11:19:42,182 - ERROR - Error de conexión: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 2023-06-16 11:21:54,594 - ERROR - Error de conexión: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 2023-06-16 11:33:17,744 - ERROR - Error de conexión: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2023-06-16 12:29:43,740 - ERROR - Error de conexión: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2023-06-16 12:33:46,000 - ERROR - Error de conexión: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2023-06-16 12:43:55,657 - INFO - Número total de errores: 0
+2023-06-16 12:47:48,851 - ERROR - Error de conexión: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2023-06-16 12:51:50,321 - ERROR - Error de conexión: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2023-06-16 14:12:29,315 - INFO - Número total de errores: 0
+2023-06-19 12:45:46,497 - INFO - Número total de errores: 0
+2023-06-19 12:57:57,500 - INFO - Número total de errores: 0
