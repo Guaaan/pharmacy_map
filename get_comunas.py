@@ -34,11 +34,13 @@ arr_comunas = []
 
 for r in regiones:
     comunas = get_comunas(r['rg'])
-    arr_comunas.append({"region": r['rg'], "comunas": comunas})
+    # arr_comunas.append({"region": r['rg'], "comunas": comunas})
+    for c in comunas:
+        arr_comunas.append({"region": r['rg'], "comuna_id": c['id'], "nombre": c['nombre']})
 
 print(arr_comunas)
 
-# Escribir arr_comunas en un archivo JSON
+
 with open('comunas.json', 'w') as file:
     json.dump(arr_comunas, file)
 

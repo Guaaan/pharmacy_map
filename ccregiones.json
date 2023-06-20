@@ -1,0 +1,7490 @@
+[
+  {
+    "region": 15,
+    "comunas": {
+      "id": "338",
+      "nombre": "Alhue",
+      "lat": "-34.031137",
+      "lng": "-71.100986"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "334",
+      "nombre": "Buin",
+      "lat": "-33.731915",
+      "lng": "-70.742231"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "335",
+      "nombre": "Calera De Tango",
+      "lat": "-33.628194",
+      "lng": "-70.770057"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "296",
+      "nombre": "Cerrillos",
+      "lat": "-33.500749",
+      "lng": "-70.709519"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "297",
+      "nombre": "Cerro Navia",
+      "lat": "-33.434858",
+      "lng": "-70.730044"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "330",
+      "nombre": "Colina",
+      "lat": "-33.204807",
+      "lng": "-70.675752"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "298",
+      "nombre": "Conchali",
+      "lat": "-33.383446",
+      "lng": "-70.677602"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "339",
+      "nombre": "Curacavi",
+      "lat": "-33.398397",
+      "lng": "-71.127384"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "299",
+      "nombre": "El Bosque",
+      "lat": "-33.564028",
+      "lng": "-70.675615"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "343",
+      "nombre": "El Monte",
+      "lat": "-33.681842",
+      "lng": "-70.985108"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "300",
+      "nombre": "Estaci\u00f3n Central",
+      "lat": "-33.463599",
+      "lng": "-70.701278"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "301",
+      "nombre": "Huechuraba",
+      "lat": "-33.374789",
+      "lng": "-70.649025"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "302",
+      "nombre": "Independencia",
+      "lat": "-33.413347",
+      "lng": "-70.666295"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "344",
+      "nombre": "Isla De Maipo",
+      "lat": "-33.747420",
+      "lng": "-70.900116"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "303",
+      "nombre": "La Cisterna",
+      "lat": "-33.529919",
+      "lng": "-70.663584"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "304",
+      "nombre": "La Florida",
+      "lat": "-33.537088",
+      "lng": "-70.586124"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "305",
+      "nombre": "La Granja",
+      "lat": "-33.532433",
+      "lng": "-70.623861"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "306",
+      "nombre": "La Pintana",
+      "lat": "-33.587773",
+      "lng": "-70.633397"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "307",
+      "nombre": "La Reina",
+      "lat": "-33.446470",
+      "lng": "-70.546141"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "331",
+      "nombre": "Lampa",
+      "lat": "-33.285037",
+      "lng": "-70.877380"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "308",
+      "nombre": "Las Condes",
+      "lat": "-33.409332",
+      "lng": "-70.567308"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "309",
+      "nombre": "Lo Barnechea",
+      "lat": "-33.357689",
+      "lng": "-70.511874"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "310",
+      "nombre": "Lo Espejo",
+      "lat": "-33.519326",
+      "lng": "-70.691010"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "311",
+      "nombre": "Lo Prado",
+      "lat": "-33.446574",
+      "lng": "-70.722864"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "312",
+      "nombre": "Macul",
+      "lat": "-33.490635",
+      "lng": "-70.599213"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "313",
+      "nombre": "Maipu",
+      "lat": "-33.521463",
+      "lng": "-70.762566"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "340",
+      "nombre": "Maria Pinto",
+      "lat": "-33.517241",
+      "lng": "-71.123586"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "337",
+      "nombre": "Melipilla",
+      "lat": "-33.686780",
+      "lng": "-71.216045"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "314",
+      "nombre": "\u00d1u\u00f1oa",
+      "lat": "-33.459518",
+      "lng": "-70.597858"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "345",
+      "nombre": "Padre Hurtado",
+      "lat": "-33.575862",
+      "lng": "-70.813824"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "336",
+      "nombre": "Paine",
+      "lat": "-33.813328",
+      "lng": "-70.737956"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "315",
+      "nombre": "Pedro Aguirre Cerda",
+      "lat": "-33.490096",
+      "lng": "-70.675792"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "346",
+      "nombre": "Pe\u00f1aflor",
+      "lat": "-33.606497",
+      "lng": "-70.877531"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "316",
+      "nombre": "Pe\u00f1alolen",
+      "lat": "-33.485871",
+      "lng": "-70.547143"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "328",
+      "nombre": "Pirque",
+      "lat": "-33.679667",
+      "lng": "-70.583014"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "317",
+      "nombre": "Providencia",
+      "lat": "-33.431494",
+      "lng": "-70.611057"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "318",
+      "nombre": "Pudahuel",
+      "lat": "-33.4421948",
+      "lng": "-70.7667027"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "327",
+      "nombre": "Puente Alto",
+      "lat": "-33.620226",
+      "lng": "-70.591315"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "319",
+      "nombre": "Quilicura",
+      "lat": "-33.359090",
+      "lng": "-70.728871"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "320",
+      "nombre": "Quinta Normal",
+      "lat": "-33.429280",
+      "lng": "-70.692999"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "321",
+      "nombre": "Recoleta",
+      "lat": "-33.405892",
+      "lng": "-70.638563"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "322",
+      "nombre": "Renca",
+      "lat": "-33.401565",
+      "lng": "-70.707589"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "333",
+      "nombre": "San Bernardo",
+      "lat": "-33.585796",
+      "lng": "-70.699551"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "323",
+      "nombre": "San Joaquin",
+      "lat": "-33.496346",
+      "lng": "-70.626743"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "329",
+      "nombre": "San Jose De Maipo",
+      "lat": "-33.768167",
+      "lng": "-70.276530"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "324",
+      "nombre": "San Miguel",
+      "lat": "-33.495089",
+      "lng": "-70.651496"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "18",
+      "nombre": "San Pedro",
+      "lat": "-33.894642",
+      "lng": "-71.456634"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "325",
+      "nombre": "San Ramon",
+      "lat": "-33.535854",
+      "lng": "-70.644564"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "295",
+      "nombre": "Santiago",
+      "lat": "-33.449288",
+      "lng": "-70.669287"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "342",
+      "nombre": "Talagante",
+      "lat": "-33.664827",
+      "lng": "-70.928011"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "332",
+      "nombre": "Til-Til",
+      "lat": "-33.084425",
+      "lng": "-70.928487"
+    }
+  },
+  {
+    "region": 15,
+    "comunas": {
+      "id": "326",
+      "nombre": "Vitacura",
+      "lat": "-33.386826",
+      "lng": "-70.563540"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "338",
+      "nombre": "Alhue",
+      "lat": "-34.031137",
+      "lng": "-71.100986"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "334",
+      "nombre": "Buin",
+      "lat": "-33.731915",
+      "lng": "-70.742231"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "335",
+      "nombre": "Calera De Tango",
+      "lat": "-33.628194",
+      "lng": "-70.770057"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "296",
+      "nombre": "Cerrillos",
+      "lat": "-33.500749",
+      "lng": "-70.709519"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "297",
+      "nombre": "Cerro Navia",
+      "lat": "-33.434858",
+      "lng": "-70.730044"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "330",
+      "nombre": "Colina",
+      "lat": "-33.204807",
+      "lng": "-70.675752"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "298",
+      "nombre": "Conchali",
+      "lat": "-33.383446",
+      "lng": "-70.677602"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "339",
+      "nombre": "Curacavi",
+      "lat": "-33.398397",
+      "lng": "-71.127384"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "299",
+      "nombre": "El Bosque",
+      "lat": "-33.564028",
+      "lng": "-70.675615"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "343",
+      "nombre": "El Monte",
+      "lat": "-33.681842",
+      "lng": "-70.985108"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "300",
+      "nombre": "Estaci\u00f3n Central",
+      "lat": "-33.463599",
+      "lng": "-70.701278"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "301",
+      "nombre": "Huechuraba",
+      "lat": "-33.374789",
+      "lng": "-70.649025"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "302",
+      "nombre": "Independencia",
+      "lat": "-33.413347",
+      "lng": "-70.666295"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "344",
+      "nombre": "Isla De Maipo",
+      "lat": "-33.747420",
+      "lng": "-70.900116"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "303",
+      "nombre": "La Cisterna",
+      "lat": "-33.529919",
+      "lng": "-70.663584"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "304",
+      "nombre": "La Florida",
+      "lat": "-33.537088",
+      "lng": "-70.586124"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "305",
+      "nombre": "La Granja",
+      "lat": "-33.532433",
+      "lng": "-70.623861"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "306",
+      "nombre": "La Pintana",
+      "lat": "-33.587773",
+      "lng": "-70.633397"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "307",
+      "nombre": "La Reina",
+      "lat": "-33.446470",
+      "lng": "-70.546141"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "331",
+      "nombre": "Lampa",
+      "lat": "-33.285037",
+      "lng": "-70.877380"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "308",
+      "nombre": "Las Condes",
+      "lat": "-33.409332",
+      "lng": "-70.567308"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "309",
+      "nombre": "Lo Barnechea",
+      "lat": "-33.357689",
+      "lng": "-70.511874"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "310",
+      "nombre": "Lo Espejo",
+      "lat": "-33.519326",
+      "lng": "-70.691010"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "311",
+      "nombre": "Lo Prado",
+      "lat": "-33.446574",
+      "lng": "-70.722864"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "312",
+      "nombre": "Macul",
+      "lat": "-33.490635",
+      "lng": "-70.599213"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "313",
+      "nombre": "Maipu",
+      "lat": "-33.521463",
+      "lng": "-70.762566"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "340",
+      "nombre": "Maria Pinto",
+      "lat": "-33.517241",
+      "lng": "-71.123586"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "337",
+      "nombre": "Melipilla",
+      "lat": "-33.686780",
+      "lng": "-71.216045"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "314",
+      "nombre": "\u00d1u\u00f1oa",
+      "lat": "-33.459518",
+      "lng": "-70.597858"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "345",
+      "nombre": "Padre Hurtado",
+      "lat": "-33.575862",
+      "lng": "-70.813824"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "336",
+      "nombre": "Paine",
+      "lat": "-33.813328",
+      "lng": "-70.737956"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "315",
+      "nombre": "Pedro Aguirre Cerda",
+      "lat": "-33.490096",
+      "lng": "-70.675792"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "346",
+      "nombre": "Pe\u00f1aflor",
+      "lat": "-33.606497",
+      "lng": "-70.877531"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "316",
+      "nombre": "Pe\u00f1alolen",
+      "lat": "-33.485871",
+      "lng": "-70.547143"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "328",
+      "nombre": "Pirque",
+      "lat": "-33.679667",
+      "lng": "-70.583014"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "317",
+      "nombre": "Providencia",
+      "lat": "-33.431494",
+      "lng": "-70.611057"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "318",
+      "nombre": "Pudahuel",
+      "lat": "-33.4421948",
+      "lng": "-70.7667027"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "327",
+      "nombre": "Puente Alto",
+      "lat": "-33.620226",
+      "lng": "-70.591315"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "319",
+      "nombre": "Quilicura",
+      "lat": "-33.359090",
+      "lng": "-70.728871"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "320",
+      "nombre": "Quinta Normal",
+      "lat": "-33.429280",
+      "lng": "-70.692999"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "321",
+      "nombre": "Recoleta",
+      "lat": "-33.405892",
+      "lng": "-70.638563"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "322",
+      "nombre": "Renca",
+      "lat": "-33.401565",
+      "lng": "-70.707589"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "333",
+      "nombre": "San Bernardo",
+      "lat": "-33.585796",
+      "lng": "-70.699551"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "323",
+      "nombre": "San Joaquin",
+      "lat": "-33.496346",
+      "lng": "-70.626743"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "329",
+      "nombre": "San Jose De Maipo",
+      "lat": "-33.768167",
+      "lng": "-70.276530"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "324",
+      "nombre": "San Miguel",
+      "lat": "-33.495089",
+      "lng": "-70.651496"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "18",
+      "nombre": "San Pedro",
+      "lat": "-33.894642",
+      "lng": "-71.456634"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "325",
+      "nombre": "San Ramon",
+      "lat": "-33.535854",
+      "lng": "-70.644564"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "295",
+      "nombre": "Santiago",
+      "lat": "-33.449288",
+      "lng": "-70.669287"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "342",
+      "nombre": "Talagante",
+      "lat": "-33.664827",
+      "lng": "-70.928011"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "332",
+      "nombre": "Til-Til",
+      "lat": "-33.084425",
+      "lng": "-70.928487"
+    }
+  },
+  {
+    "region": 1,
+    "comunas": {
+      "id": "326",
+      "nombre": "Vitacura",
+      "lat": "-33.386826",
+      "lng": "-70.563540"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "338",
+      "nombre": "Alhue",
+      "lat": "-34.031137",
+      "lng": "-71.100986"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "334",
+      "nombre": "Buin",
+      "lat": "-33.731915",
+      "lng": "-70.742231"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "335",
+      "nombre": "Calera De Tango",
+      "lat": "-33.628194",
+      "lng": "-70.770057"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "296",
+      "nombre": "Cerrillos",
+      "lat": "-33.500749",
+      "lng": "-70.709519"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "297",
+      "nombre": "Cerro Navia",
+      "lat": "-33.434858",
+      "lng": "-70.730044"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "330",
+      "nombre": "Colina",
+      "lat": "-33.204807",
+      "lng": "-70.675752"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "298",
+      "nombre": "Conchali",
+      "lat": "-33.383446",
+      "lng": "-70.677602"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "339",
+      "nombre": "Curacavi",
+      "lat": "-33.398397",
+      "lng": "-71.127384"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "299",
+      "nombre": "El Bosque",
+      "lat": "-33.564028",
+      "lng": "-70.675615"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "343",
+      "nombre": "El Monte",
+      "lat": "-33.681842",
+      "lng": "-70.985108"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "300",
+      "nombre": "Estaci\u00f3n Central",
+      "lat": "-33.463599",
+      "lng": "-70.701278"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "301",
+      "nombre": "Huechuraba",
+      "lat": "-33.374789",
+      "lng": "-70.649025"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "302",
+      "nombre": "Independencia",
+      "lat": "-33.413347",
+      "lng": "-70.666295"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "344",
+      "nombre": "Isla De Maipo",
+      "lat": "-33.747420",
+      "lng": "-70.900116"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "303",
+      "nombre": "La Cisterna",
+      "lat": "-33.529919",
+      "lng": "-70.663584"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "304",
+      "nombre": "La Florida",
+      "lat": "-33.537088",
+      "lng": "-70.586124"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "305",
+      "nombre": "La Granja",
+      "lat": "-33.532433",
+      "lng": "-70.623861"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "306",
+      "nombre": "La Pintana",
+      "lat": "-33.587773",
+      "lng": "-70.633397"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "307",
+      "nombre": "La Reina",
+      "lat": "-33.446470",
+      "lng": "-70.546141"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "331",
+      "nombre": "Lampa",
+      "lat": "-33.285037",
+      "lng": "-70.877380"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "308",
+      "nombre": "Las Condes",
+      "lat": "-33.409332",
+      "lng": "-70.567308"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "309",
+      "nombre": "Lo Barnechea",
+      "lat": "-33.357689",
+      "lng": "-70.511874"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "310",
+      "nombre": "Lo Espejo",
+      "lat": "-33.519326",
+      "lng": "-70.691010"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "311",
+      "nombre": "Lo Prado",
+      "lat": "-33.446574",
+      "lng": "-70.722864"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "312",
+      "nombre": "Macul",
+      "lat": "-33.490635",
+      "lng": "-70.599213"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "313",
+      "nombre": "Maipu",
+      "lat": "-33.521463",
+      "lng": "-70.762566"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "340",
+      "nombre": "Maria Pinto",
+      "lat": "-33.517241",
+      "lng": "-71.123586"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "337",
+      "nombre": "Melipilla",
+      "lat": "-33.686780",
+      "lng": "-71.216045"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "314",
+      "nombre": "\u00d1u\u00f1oa",
+      "lat": "-33.459518",
+      "lng": "-70.597858"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "345",
+      "nombre": "Padre Hurtado",
+      "lat": "-33.575862",
+      "lng": "-70.813824"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "336",
+      "nombre": "Paine",
+      "lat": "-33.813328",
+      "lng": "-70.737956"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "315",
+      "nombre": "Pedro Aguirre Cerda",
+      "lat": "-33.490096",
+      "lng": "-70.675792"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "346",
+      "nombre": "Pe\u00f1aflor",
+      "lat": "-33.606497",
+      "lng": "-70.877531"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "316",
+      "nombre": "Pe\u00f1alolen",
+      "lat": "-33.485871",
+      "lng": "-70.547143"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "328",
+      "nombre": "Pirque",
+      "lat": "-33.679667",
+      "lng": "-70.583014"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "317",
+      "nombre": "Providencia",
+      "lat": "-33.431494",
+      "lng": "-70.611057"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "318",
+      "nombre": "Pudahuel",
+      "lat": "-33.4421948",
+      "lng": "-70.7667027"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "327",
+      "nombre": "Puente Alto",
+      "lat": "-33.620226",
+      "lng": "-70.591315"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "319",
+      "nombre": "Quilicura",
+      "lat": "-33.359090",
+      "lng": "-70.728871"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "320",
+      "nombre": "Quinta Normal",
+      "lat": "-33.429280",
+      "lng": "-70.692999"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "321",
+      "nombre": "Recoleta",
+      "lat": "-33.405892",
+      "lng": "-70.638563"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "322",
+      "nombre": "Renca",
+      "lat": "-33.401565",
+      "lng": "-70.707589"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "333",
+      "nombre": "San Bernardo",
+      "lat": "-33.585796",
+      "lng": "-70.699551"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "323",
+      "nombre": "San Joaquin",
+      "lat": "-33.496346",
+      "lng": "-70.626743"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "329",
+      "nombre": "San Jose De Maipo",
+      "lat": "-33.768167",
+      "lng": "-70.276530"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "324",
+      "nombre": "San Miguel",
+      "lat": "-33.495089",
+      "lng": "-70.651496"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "18",
+      "nombre": "San Pedro",
+      "lat": "-33.894642",
+      "lng": "-71.456634"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "325",
+      "nombre": "San Ramon",
+      "lat": "-33.535854",
+      "lng": "-70.644564"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "295",
+      "nombre": "Santiago",
+      "lat": "-33.449288",
+      "lng": "-70.669287"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "342",
+      "nombre": "Talagante",
+      "lat": "-33.664827",
+      "lng": "-70.928011"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "332",
+      "nombre": "Til-Til",
+      "lat": "-33.084425",
+      "lng": "-70.928487"
+    }
+  },
+  {
+    "region": 2,
+    "comunas": {
+      "id": "326",
+      "nombre": "Vitacura",
+      "lat": "-33.386826",
+      "lng": "-70.563540"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "338",
+      "nombre": "Alhue",
+      "lat": "-34.031137",
+      "lng": "-71.100986"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "334",
+      "nombre": "Buin",
+      "lat": "-33.731915",
+      "lng": "-70.742231"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "335",
+      "nombre": "Calera De Tango",
+      "lat": "-33.628194",
+      "lng": "-70.770057"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "296",
+      "nombre": "Cerrillos",
+      "lat": "-33.500749",
+      "lng": "-70.709519"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "297",
+      "nombre": "Cerro Navia",
+      "lat": "-33.434858",
+      "lng": "-70.730044"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "330",
+      "nombre": "Colina",
+      "lat": "-33.204807",
+      "lng": "-70.675752"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "298",
+      "nombre": "Conchali",
+      "lat": "-33.383446",
+      "lng": "-70.677602"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "339",
+      "nombre": "Curacavi",
+      "lat": "-33.398397",
+      "lng": "-71.127384"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "299",
+      "nombre": "El Bosque",
+      "lat": "-33.564028",
+      "lng": "-70.675615"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "343",
+      "nombre": "El Monte",
+      "lat": "-33.681842",
+      "lng": "-70.985108"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "300",
+      "nombre": "Estaci\u00f3n Central",
+      "lat": "-33.463599",
+      "lng": "-70.701278"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "301",
+      "nombre": "Huechuraba",
+      "lat": "-33.374789",
+      "lng": "-70.649025"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "302",
+      "nombre": "Independencia",
+      "lat": "-33.413347",
+      "lng": "-70.666295"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "344",
+      "nombre": "Isla De Maipo",
+      "lat": "-33.747420",
+      "lng": "-70.900116"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "303",
+      "nombre": "La Cisterna",
+      "lat": "-33.529919",
+      "lng": "-70.663584"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "304",
+      "nombre": "La Florida",
+      "lat": "-33.537088",
+      "lng": "-70.586124"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "305",
+      "nombre": "La Granja",
+      "lat": "-33.532433",
+      "lng": "-70.623861"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "306",
+      "nombre": "La Pintana",
+      "lat": "-33.587773",
+      "lng": "-70.633397"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "307",
+      "nombre": "La Reina",
+      "lat": "-33.446470",
+      "lng": "-70.546141"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "331",
+      "nombre": "Lampa",
+      "lat": "-33.285037",
+      "lng": "-70.877380"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "308",
+      "nombre": "Las Condes",
+      "lat": "-33.409332",
+      "lng": "-70.567308"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "309",
+      "nombre": "Lo Barnechea",
+      "lat": "-33.357689",
+      "lng": "-70.511874"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "310",
+      "nombre": "Lo Espejo",
+      "lat": "-33.519326",
+      "lng": "-70.691010"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "311",
+      "nombre": "Lo Prado",
+      "lat": "-33.446574",
+      "lng": "-70.722864"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "312",
+      "nombre": "Macul",
+      "lat": "-33.490635",
+      "lng": "-70.599213"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "313",
+      "nombre": "Maipu",
+      "lat": "-33.521463",
+      "lng": "-70.762566"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "340",
+      "nombre": "Maria Pinto",
+      "lat": "-33.517241",
+      "lng": "-71.123586"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "337",
+      "nombre": "Melipilla",
+      "lat": "-33.686780",
+      "lng": "-71.216045"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "314",
+      "nombre": "\u00d1u\u00f1oa",
+      "lat": "-33.459518",
+      "lng": "-70.597858"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "345",
+      "nombre": "Padre Hurtado",
+      "lat": "-33.575862",
+      "lng": "-70.813824"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "336",
+      "nombre": "Paine",
+      "lat": "-33.813328",
+      "lng": "-70.737956"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "315",
+      "nombre": "Pedro Aguirre Cerda",
+      "lat": "-33.490096",
+      "lng": "-70.675792"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "346",
+      "nombre": "Pe\u00f1aflor",
+      "lat": "-33.606497",
+      "lng": "-70.877531"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "316",
+      "nombre": "Pe\u00f1alolen",
+      "lat": "-33.485871",
+      "lng": "-70.547143"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "328",
+      "nombre": "Pirque",
+      "lat": "-33.679667",
+      "lng": "-70.583014"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "317",
+      "nombre": "Providencia",
+      "lat": "-33.431494",
+      "lng": "-70.611057"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "318",
+      "nombre": "Pudahuel",
+      "lat": "-33.4421948",
+      "lng": "-70.7667027"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "327",
+      "nombre": "Puente Alto",
+      "lat": "-33.620226",
+      "lng": "-70.591315"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "319",
+      "nombre": "Quilicura",
+      "lat": "-33.359090",
+      "lng": "-70.728871"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "320",
+      "nombre": "Quinta Normal",
+      "lat": "-33.429280",
+      "lng": "-70.692999"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "321",
+      "nombre": "Recoleta",
+      "lat": "-33.405892",
+      "lng": "-70.638563"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "322",
+      "nombre": "Renca",
+      "lat": "-33.401565",
+      "lng": "-70.707589"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "333",
+      "nombre": "San Bernardo",
+      "lat": "-33.585796",
+      "lng": "-70.699551"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "323",
+      "nombre": "San Joaquin",
+      "lat": "-33.496346",
+      "lng": "-70.626743"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "329",
+      "nombre": "San Jose De Maipo",
+      "lat": "-33.768167",
+      "lng": "-70.276530"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "324",
+      "nombre": "San Miguel",
+      "lat": "-33.495089",
+      "lng": "-70.651496"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "18",
+      "nombre": "San Pedro",
+      "lat": "-33.894642",
+      "lng": "-71.456634"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "325",
+      "nombre": "San Ramon",
+      "lat": "-33.535854",
+      "lng": "-70.644564"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "295",
+      "nombre": "Santiago",
+      "lat": "-33.449288",
+      "lng": "-70.669287"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "342",
+      "nombre": "Talagante",
+      "lat": "-33.664827",
+      "lng": "-70.928011"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "332",
+      "nombre": "Til-Til",
+      "lat": "-33.084425",
+      "lng": "-70.928487"
+    }
+  },
+  {
+    "region": 3,
+    "comunas": {
+      "id": "326",
+      "nombre": "Vitacura",
+      "lat": "-33.386826",
+      "lng": "-70.563540"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "338",
+      "nombre": "Alhue",
+      "lat": "-34.031137",
+      "lng": "-71.100986"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "334",
+      "nombre": "Buin",
+      "lat": "-33.731915",
+      "lng": "-70.742231"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "335",
+      "nombre": "Calera De Tango",
+      "lat": "-33.628194",
+      "lng": "-70.770057"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "296",
+      "nombre": "Cerrillos",
+      "lat": "-33.500749",
+      "lng": "-70.709519"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "297",
+      "nombre": "Cerro Navia",
+      "lat": "-33.434858",
+      "lng": "-70.730044"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "330",
+      "nombre": "Colina",
+      "lat": "-33.204807",
+      "lng": "-70.675752"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "298",
+      "nombre": "Conchali",
+      "lat": "-33.383446",
+      "lng": "-70.677602"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "339",
+      "nombre": "Curacavi",
+      "lat": "-33.398397",
+      "lng": "-71.127384"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "299",
+      "nombre": "El Bosque",
+      "lat": "-33.564028",
+      "lng": "-70.675615"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "343",
+      "nombre": "El Monte",
+      "lat": "-33.681842",
+      "lng": "-70.985108"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "300",
+      "nombre": "Estaci\u00f3n Central",
+      "lat": "-33.463599",
+      "lng": "-70.701278"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "301",
+      "nombre": "Huechuraba",
+      "lat": "-33.374789",
+      "lng": "-70.649025"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "302",
+      "nombre": "Independencia",
+      "lat": "-33.413347",
+      "lng": "-70.666295"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "344",
+      "nombre": "Isla De Maipo",
+      "lat": "-33.747420",
+      "lng": "-70.900116"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "303",
+      "nombre": "La Cisterna",
+      "lat": "-33.529919",
+      "lng": "-70.663584"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "304",
+      "nombre": "La Florida",
+      "lat": "-33.537088",
+      "lng": "-70.586124"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "305",
+      "nombre": "La Granja",
+      "lat": "-33.532433",
+      "lng": "-70.623861"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "306",
+      "nombre": "La Pintana",
+      "lat": "-33.587773",
+      "lng": "-70.633397"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "307",
+      "nombre": "La Reina",
+      "lat": "-33.446470",
+      "lng": "-70.546141"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "331",
+      "nombre": "Lampa",
+      "lat": "-33.285037",
+      "lng": "-70.877380"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "308",
+      "nombre": "Las Condes",
+      "lat": "-33.409332",
+      "lng": "-70.567308"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "309",
+      "nombre": "Lo Barnechea",
+      "lat": "-33.357689",
+      "lng": "-70.511874"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "310",
+      "nombre": "Lo Espejo",
+      "lat": "-33.519326",
+      "lng": "-70.691010"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "311",
+      "nombre": "Lo Prado",
+      "lat": "-33.446574",
+      "lng": "-70.722864"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "312",
+      "nombre": "Macul",
+      "lat": "-33.490635",
+      "lng": "-70.599213"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "313",
+      "nombre": "Maipu",
+      "lat": "-33.521463",
+      "lng": "-70.762566"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "340",
+      "nombre": "Maria Pinto",
+      "lat": "-33.517241",
+      "lng": "-71.123586"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "337",
+      "nombre": "Melipilla",
+      "lat": "-33.686780",
+      "lng": "-71.216045"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "314",
+      "nombre": "\u00d1u\u00f1oa",
+      "lat": "-33.459518",
+      "lng": "-70.597858"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "345",
+      "nombre": "Padre Hurtado",
+      "lat": "-33.575862",
+      "lng": "-70.813824"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "336",
+      "nombre": "Paine",
+      "lat": "-33.813328",
+      "lng": "-70.737956"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "315",
+      "nombre": "Pedro Aguirre Cerda",
+      "lat": "-33.490096",
+      "lng": "-70.675792"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "346",
+      "nombre": "Pe\u00f1aflor",
+      "lat": "-33.606497",
+      "lng": "-70.877531"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "316",
+      "nombre": "Pe\u00f1alolen",
+      "lat": "-33.485871",
+      "lng": "-70.547143"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "328",
+      "nombre": "Pirque",
+      "lat": "-33.679667",
+      "lng": "-70.583014"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "317",
+      "nombre": "Providencia",
+      "lat": "-33.431494",
+      "lng": "-70.611057"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "318",
+      "nombre": "Pudahuel",
+      "lat": "-33.4421948",
+      "lng": "-70.7667027"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "327",
+      "nombre": "Puente Alto",
+      "lat": "-33.620226",
+      "lng": "-70.591315"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "319",
+      "nombre": "Quilicura",
+      "lat": "-33.359090",
+      "lng": "-70.728871"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "320",
+      "nombre": "Quinta Normal",
+      "lat": "-33.429280",
+      "lng": "-70.692999"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "321",
+      "nombre": "Recoleta",
+      "lat": "-33.405892",
+      "lng": "-70.638563"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "322",
+      "nombre": "Renca",
+      "lat": "-33.401565",
+      "lng": "-70.707589"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "333",
+      "nombre": "San Bernardo",
+      "lat": "-33.585796",
+      "lng": "-70.699551"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "323",
+      "nombre": "San Joaquin",
+      "lat": "-33.496346",
+      "lng": "-70.626743"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "329",
+      "nombre": "San Jose De Maipo",
+      "lat": "-33.768167",
+      "lng": "-70.276530"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "324",
+      "nombre": "San Miguel",
+      "lat": "-33.495089",
+      "lng": "-70.651496"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "18",
+      "nombre": "San Pedro",
+      "lat": "-33.894642",
+      "lng": "-71.456634"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "325",
+      "nombre": "San Ramon",
+      "lat": "-33.535854",
+      "lng": "-70.644564"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "295",
+      "nombre": "Santiago",
+      "lat": "-33.449288",
+      "lng": "-70.669287"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "342",
+      "nombre": "Talagante",
+      "lat": "-33.664827",
+      "lng": "-70.928011"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "332",
+      "nombre": "Til-Til",
+      "lat": "-33.084425",
+      "lng": "-70.928487"
+    }
+  },
+  {
+    "region": 4,
+    "comunas": {
+      "id": "326",
+      "nombre": "Vitacura",
+      "lat": "-33.386826",
+      "lng": "-70.563540"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "338",
+      "nombre": "Alhue",
+      "lat": "-34.031137",
+      "lng": "-71.100986"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "334",
+      "nombre": "Buin",
+      "lat": "-33.731915",
+      "lng": "-70.742231"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "335",
+      "nombre": "Calera De Tango",
+      "lat": "-33.628194",
+      "lng": "-70.770057"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "296",
+      "nombre": "Cerrillos",
+      "lat": "-33.500749",
+      "lng": "-70.709519"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "297",
+      "nombre": "Cerro Navia",
+      "lat": "-33.434858",
+      "lng": "-70.730044"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "330",
+      "nombre": "Colina",
+      "lat": "-33.204807",
+      "lng": "-70.675752"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "298",
+      "nombre": "Conchali",
+      "lat": "-33.383446",
+      "lng": "-70.677602"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "339",
+      "nombre": "Curacavi",
+      "lat": "-33.398397",
+      "lng": "-71.127384"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "299",
+      "nombre": "El Bosque",
+      "lat": "-33.564028",
+      "lng": "-70.675615"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "343",
+      "nombre": "El Monte",
+      "lat": "-33.681842",
+      "lng": "-70.985108"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "300",
+      "nombre": "Estaci\u00f3n Central",
+      "lat": "-33.463599",
+      "lng": "-70.701278"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "301",
+      "nombre": "Huechuraba",
+      "lat": "-33.374789",
+      "lng": "-70.649025"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "302",
+      "nombre": "Independencia",
+      "lat": "-33.413347",
+      "lng": "-70.666295"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "344",
+      "nombre": "Isla De Maipo",
+      "lat": "-33.747420",
+      "lng": "-70.900116"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "303",
+      "nombre": "La Cisterna",
+      "lat": "-33.529919",
+      "lng": "-70.663584"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "304",
+      "nombre": "La Florida",
+      "lat": "-33.537088",
+      "lng": "-70.586124"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "305",
+      "nombre": "La Granja",
+      "lat": "-33.532433",
+      "lng": "-70.623861"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "306",
+      "nombre": "La Pintana",
+      "lat": "-33.587773",
+      "lng": "-70.633397"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "307",
+      "nombre": "La Reina",
+      "lat": "-33.446470",
+      "lng": "-70.546141"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "331",
+      "nombre": "Lampa",
+      "lat": "-33.285037",
+      "lng": "-70.877380"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "308",
+      "nombre": "Las Condes",
+      "lat": "-33.409332",
+      "lng": "-70.567308"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "309",
+      "nombre": "Lo Barnechea",
+      "lat": "-33.357689",
+      "lng": "-70.511874"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "310",
+      "nombre": "Lo Espejo",
+      "lat": "-33.519326",
+      "lng": "-70.691010"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "311",
+      "nombre": "Lo Prado",
+      "lat": "-33.446574",
+      "lng": "-70.722864"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "312",
+      "nombre": "Macul",
+      "lat": "-33.490635",
+      "lng": "-70.599213"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "313",
+      "nombre": "Maipu",
+      "lat": "-33.521463",
+      "lng": "-70.762566"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "340",
+      "nombre": "Maria Pinto",
+      "lat": "-33.517241",
+      "lng": "-71.123586"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "337",
+      "nombre": "Melipilla",
+      "lat": "-33.686780",
+      "lng": "-71.216045"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "314",
+      "nombre": "\u00d1u\u00f1oa",
+      "lat": "-33.459518",
+      "lng": "-70.597858"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "345",
+      "nombre": "Padre Hurtado",
+      "lat": "-33.575862",
+      "lng": "-70.813824"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "336",
+      "nombre": "Paine",
+      "lat": "-33.813328",
+      "lng": "-70.737956"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "315",
+      "nombre": "Pedro Aguirre Cerda",
+      "lat": "-33.490096",
+      "lng": "-70.675792"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "346",
+      "nombre": "Pe\u00f1aflor",
+      "lat": "-33.606497",
+      "lng": "-70.877531"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "316",
+      "nombre": "Pe\u00f1alolen",
+      "lat": "-33.485871",
+      "lng": "-70.547143"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "328",
+      "nombre": "Pirque",
+      "lat": "-33.679667",
+      "lng": "-70.583014"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "317",
+      "nombre": "Providencia",
+      "lat": "-33.431494",
+      "lng": "-70.611057"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "318",
+      "nombre": "Pudahuel",
+      "lat": "-33.4421948",
+      "lng": "-70.7667027"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "327",
+      "nombre": "Puente Alto",
+      "lat": "-33.620226",
+      "lng": "-70.591315"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "319",
+      "nombre": "Quilicura",
+      "lat": "-33.359090",
+      "lng": "-70.728871"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "320",
+      "nombre": "Quinta Normal",
+      "lat": "-33.429280",
+      "lng": "-70.692999"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "321",
+      "nombre": "Recoleta",
+      "lat": "-33.405892",
+      "lng": "-70.638563"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "322",
+      "nombre": "Renca",
+      "lat": "-33.401565",
+      "lng": "-70.707589"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "333",
+      "nombre": "San Bernardo",
+      "lat": "-33.585796",
+      "lng": "-70.699551"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "323",
+      "nombre": "San Joaquin",
+      "lat": "-33.496346",
+      "lng": "-70.626743"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "329",
+      "nombre": "San Jose De Maipo",
+      "lat": "-33.768167",
+      "lng": "-70.276530"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "324",
+      "nombre": "San Miguel",
+      "lat": "-33.495089",
+      "lng": "-70.651496"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "18",
+      "nombre": "San Pedro",
+      "lat": "-33.894642",
+      "lng": "-71.456634"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "325",
+      "nombre": "San Ramon",
+      "lat": "-33.535854",
+      "lng": "-70.644564"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "295",
+      "nombre": "Santiago",
+      "lat": "-33.449288",
+      "lng": "-70.669287"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "342",
+      "nombre": "Talagante",
+      "lat": "-33.664827",
+      "lng": "-70.928011"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "332",
+      "nombre": "Til-Til",
+      "lat": "-33.084425",
+      "lng": "-70.928487"
+    }
+  },
+  {
+    "region": 5,
+    "comunas": {
+      "id": "326",
+      "nombre": "Vitacura",
+      "lat": "-33.386826",
+      "lng": "-70.563540"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "338",
+      "nombre": "Alhue",
+      "lat": "-34.031137",
+      "lng": "-71.100986"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "334",
+      "nombre": "Buin",
+      "lat": "-33.731915",
+      "lng": "-70.742231"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "335",
+      "nombre": "Calera De Tango",
+      "lat": "-33.628194",
+      "lng": "-70.770057"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "296",
+      "nombre": "Cerrillos",
+      "lat": "-33.500749",
+      "lng": "-70.709519"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "297",
+      "nombre": "Cerro Navia",
+      "lat": "-33.434858",
+      "lng": "-70.730044"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "330",
+      "nombre": "Colina",
+      "lat": "-33.204807",
+      "lng": "-70.675752"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "298",
+      "nombre": "Conchali",
+      "lat": "-33.383446",
+      "lng": "-70.677602"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "339",
+      "nombre": "Curacavi",
+      "lat": "-33.398397",
+      "lng": "-71.127384"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "299",
+      "nombre": "El Bosque",
+      "lat": "-33.564028",
+      "lng": "-70.675615"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "343",
+      "nombre": "El Monte",
+      "lat": "-33.681842",
+      "lng": "-70.985108"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "300",
+      "nombre": "Estaci\u00f3n Central",
+      "lat": "-33.463599",
+      "lng": "-70.701278"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "301",
+      "nombre": "Huechuraba",
+      "lat": "-33.374789",
+      "lng": "-70.649025"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "302",
+      "nombre": "Independencia",
+      "lat": "-33.413347",
+      "lng": "-70.666295"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "344",
+      "nombre": "Isla De Maipo",
+      "lat": "-33.747420",
+      "lng": "-70.900116"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "303",
+      "nombre": "La Cisterna",
+      "lat": "-33.529919",
+      "lng": "-70.663584"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "304",
+      "nombre": "La Florida",
+      "lat": "-33.537088",
+      "lng": "-70.586124"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "305",
+      "nombre": "La Granja",
+      "lat": "-33.532433",
+      "lng": "-70.623861"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "306",
+      "nombre": "La Pintana",
+      "lat": "-33.587773",
+      "lng": "-70.633397"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "307",
+      "nombre": "La Reina",
+      "lat": "-33.446470",
+      "lng": "-70.546141"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "331",
+      "nombre": "Lampa",
+      "lat": "-33.285037",
+      "lng": "-70.877380"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "308",
+      "nombre": "Las Condes",
+      "lat": "-33.409332",
+      "lng": "-70.567308"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "309",
+      "nombre": "Lo Barnechea",
+      "lat": "-33.357689",
+      "lng": "-70.511874"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "310",
+      "nombre": "Lo Espejo",
+      "lat": "-33.519326",
+      "lng": "-70.691010"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "311",
+      "nombre": "Lo Prado",
+      "lat": "-33.446574",
+      "lng": "-70.722864"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "312",
+      "nombre": "Macul",
+      "lat": "-33.490635",
+      "lng": "-70.599213"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "313",
+      "nombre": "Maipu",
+      "lat": "-33.521463",
+      "lng": "-70.762566"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "340",
+      "nombre": "Maria Pinto",
+      "lat": "-33.517241",
+      "lng": "-71.123586"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "337",
+      "nombre": "Melipilla",
+      "lat": "-33.686780",
+      "lng": "-71.216045"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "314",
+      "nombre": "\u00d1u\u00f1oa",
+      "lat": "-33.459518",
+      "lng": "-70.597858"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "345",
+      "nombre": "Padre Hurtado",
+      "lat": "-33.575862",
+      "lng": "-70.813824"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "336",
+      "nombre": "Paine",
+      "lat": "-33.813328",
+      "lng": "-70.737956"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "315",
+      "nombre": "Pedro Aguirre Cerda",
+      "lat": "-33.490096",
+      "lng": "-70.675792"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "346",
+      "nombre": "Pe\u00f1aflor",
+      "lat": "-33.606497",
+      "lng": "-70.877531"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "316",
+      "nombre": "Pe\u00f1alolen",
+      "lat": "-33.485871",
+      "lng": "-70.547143"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "328",
+      "nombre": "Pirque",
+      "lat": "-33.679667",
+      "lng": "-70.583014"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "317",
+      "nombre": "Providencia",
+      "lat": "-33.431494",
+      "lng": "-70.611057"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "318",
+      "nombre": "Pudahuel",
+      "lat": "-33.4421948",
+      "lng": "-70.7667027"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "327",
+      "nombre": "Puente Alto",
+      "lat": "-33.620226",
+      "lng": "-70.591315"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "319",
+      "nombre": "Quilicura",
+      "lat": "-33.359090",
+      "lng": "-70.728871"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "320",
+      "nombre": "Quinta Normal",
+      "lat": "-33.429280",
+      "lng": "-70.692999"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "321",
+      "nombre": "Recoleta",
+      "lat": "-33.405892",
+      "lng": "-70.638563"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "322",
+      "nombre": "Renca",
+      "lat": "-33.401565",
+      "lng": "-70.707589"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "333",
+      "nombre": "San Bernardo",
+      "lat": "-33.585796",
+      "lng": "-70.699551"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "323",
+      "nombre": "San Joaquin",
+      "lat": "-33.496346",
+      "lng": "-70.626743"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "329",
+      "nombre": "San Jose De Maipo",
+      "lat": "-33.768167",
+      "lng": "-70.276530"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "324",
+      "nombre": "San Miguel",
+      "lat": "-33.495089",
+      "lng": "-70.651496"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "18",
+      "nombre": "San Pedro",
+      "lat": "-33.894642",
+      "lng": "-71.456634"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "325",
+      "nombre": "San Ramon",
+      "lat": "-33.535854",
+      "lng": "-70.644564"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "295",
+      "nombre": "Santiago",
+      "lat": "-33.449288",
+      "lng": "-70.669287"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "342",
+      "nombre": "Talagante",
+      "lat": "-33.664827",
+      "lng": "-70.928011"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "332",
+      "nombre": "Til-Til",
+      "lat": "-33.084425",
+      "lng": "-70.928487"
+    }
+  },
+  {
+    "region": 13,
+    "comunas": {
+      "id": "326",
+      "nombre": "Vitacura",
+      "lat": "-33.386826",
+      "lng": "-70.563540"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "338",
+      "nombre": "Alhue",
+      "lat": "-34.031137",
+      "lng": "-71.100986"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "334",
+      "nombre": "Buin",
+      "lat": "-33.731915",
+      "lng": "-70.742231"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "335",
+      "nombre": "Calera De Tango",
+      "lat": "-33.628194",
+      "lng": "-70.770057"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "296",
+      "nombre": "Cerrillos",
+      "lat": "-33.500749",
+      "lng": "-70.709519"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "297",
+      "nombre": "Cerro Navia",
+      "lat": "-33.434858",
+      "lng": "-70.730044"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "330",
+      "nombre": "Colina",
+      "lat": "-33.204807",
+      "lng": "-70.675752"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "298",
+      "nombre": "Conchali",
+      "lat": "-33.383446",
+      "lng": "-70.677602"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "339",
+      "nombre": "Curacavi",
+      "lat": "-33.398397",
+      "lng": "-71.127384"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "299",
+      "nombre": "El Bosque",
+      "lat": "-33.564028",
+      "lng": "-70.675615"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "343",
+      "nombre": "El Monte",
+      "lat": "-33.681842",
+      "lng": "-70.985108"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "300",
+      "nombre": "Estaci\u00f3n Central",
+      "lat": "-33.463599",
+      "lng": "-70.701278"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "301",
+      "nombre": "Huechuraba",
+      "lat": "-33.374789",
+      "lng": "-70.649025"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "302",
+      "nombre": "Independencia",
+      "lat": "-33.413347",
+      "lng": "-70.666295"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "344",
+      "nombre": "Isla De Maipo",
+      "lat": "-33.747420",
+      "lng": "-70.900116"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "303",
+      "nombre": "La Cisterna",
+      "lat": "-33.529919",
+      "lng": "-70.663584"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "304",
+      "nombre": "La Florida",
+      "lat": "-33.537088",
+      "lng": "-70.586124"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "305",
+      "nombre": "La Granja",
+      "lat": "-33.532433",
+      "lng": "-70.623861"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "306",
+      "nombre": "La Pintana",
+      "lat": "-33.587773",
+      "lng": "-70.633397"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "307",
+      "nombre": "La Reina",
+      "lat": "-33.446470",
+      "lng": "-70.546141"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "331",
+      "nombre": "Lampa",
+      "lat": "-33.285037",
+      "lng": "-70.877380"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "308",
+      "nombre": "Las Condes",
+      "lat": "-33.409332",
+      "lng": "-70.567308"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "309",
+      "nombre": "Lo Barnechea",
+      "lat": "-33.357689",
+      "lng": "-70.511874"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "310",
+      "nombre": "Lo Espejo",
+      "lat": "-33.519326",
+      "lng": "-70.691010"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "311",
+      "nombre": "Lo Prado",
+      "lat": "-33.446574",
+      "lng": "-70.722864"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "312",
+      "nombre": "Macul",
+      "lat": "-33.490635",
+      "lng": "-70.599213"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "313",
+      "nombre": "Maipu",
+      "lat": "-33.521463",
+      "lng": "-70.762566"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "340",
+      "nombre": "Maria Pinto",
+      "lat": "-33.517241",
+      "lng": "-71.123586"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "337",
+      "nombre": "Melipilla",
+      "lat": "-33.686780",
+      "lng": "-71.216045"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "314",
+      "nombre": "\u00d1u\u00f1oa",
+      "lat": "-33.459518",
+      "lng": "-70.597858"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "345",
+      "nombre": "Padre Hurtado",
+      "lat": "-33.575862",
+      "lng": "-70.813824"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "336",
+      "nombre": "Paine",
+      "lat": "-33.813328",
+      "lng": "-70.737956"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "315",
+      "nombre": "Pedro Aguirre Cerda",
+      "lat": "-33.490096",
+      "lng": "-70.675792"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "346",
+      "nombre": "Pe\u00f1aflor",
+      "lat": "-33.606497",
+      "lng": "-70.877531"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "316",
+      "nombre": "Pe\u00f1alolen",
+      "lat": "-33.485871",
+      "lng": "-70.547143"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "328",
+      "nombre": "Pirque",
+      "lat": "-33.679667",
+      "lng": "-70.583014"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "317",
+      "nombre": "Providencia",
+      "lat": "-33.431494",
+      "lng": "-70.611057"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "318",
+      "nombre": "Pudahuel",
+      "lat": "-33.4421948",
+      "lng": "-70.7667027"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "327",
+      "nombre": "Puente Alto",
+      "lat": "-33.620226",
+      "lng": "-70.591315"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "319",
+      "nombre": "Quilicura",
+      "lat": "-33.359090",
+      "lng": "-70.728871"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "320",
+      "nombre": "Quinta Normal",
+      "lat": "-33.429280",
+      "lng": "-70.692999"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "321",
+      "nombre": "Recoleta",
+      "lat": "-33.405892",
+      "lng": "-70.638563"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "322",
+      "nombre": "Renca",
+      "lat": "-33.401565",
+      "lng": "-70.707589"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "333",
+      "nombre": "San Bernardo",
+      "lat": "-33.585796",
+      "lng": "-70.699551"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "323",
+      "nombre": "San Joaquin",
+      "lat": "-33.496346",
+      "lng": "-70.626743"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "329",
+      "nombre": "San Jose De Maipo",
+      "lat": "-33.768167",
+      "lng": "-70.276530"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "324",
+      "nombre": "San Miguel",
+      "lat": "-33.495089",
+      "lng": "-70.651496"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "18",
+      "nombre": "San Pedro",
+      "lat": "-33.894642",
+      "lng": "-71.456634"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "325",
+      "nombre": "San Ramon",
+      "lat": "-33.535854",
+      "lng": "-70.644564"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "295",
+      "nombre": "Santiago",
+      "lat": "-33.449288",
+      "lng": "-70.669287"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "342",
+      "nombre": "Talagante",
+      "lat": "-33.664827",
+      "lng": "-70.928011"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "332",
+      "nombre": "Til-Til",
+      "lat": "-33.084425",
+      "lng": "-70.928487"
+    }
+  },
+  {
+    "region": 6,
+    "comunas": {
+      "id": "326",
+      "nombre": "Vitacura",
+      "lat": "-33.386826",
+      "lng": "-70.563540"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "338",
+      "nombre": "Alhue",
+      "lat": "-34.031137",
+      "lng": "-71.100986"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "334",
+      "nombre": "Buin",
+      "lat": "-33.731915",
+      "lng": "-70.742231"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "335",
+      "nombre": "Calera De Tango",
+      "lat": "-33.628194",
+      "lng": "-70.770057"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "296",
+      "nombre": "Cerrillos",
+      "lat": "-33.500749",
+      "lng": "-70.709519"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "297",
+      "nombre": "Cerro Navia",
+      "lat": "-33.434858",
+      "lng": "-70.730044"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "330",
+      "nombre": "Colina",
+      "lat": "-33.204807",
+      "lng": "-70.675752"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "298",
+      "nombre": "Conchali",
+      "lat": "-33.383446",
+      "lng": "-70.677602"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "339",
+      "nombre": "Curacavi",
+      "lat": "-33.398397",
+      "lng": "-71.127384"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "299",
+      "nombre": "El Bosque",
+      "lat": "-33.564028",
+      "lng": "-70.675615"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "343",
+      "nombre": "El Monte",
+      "lat": "-33.681842",
+      "lng": "-70.985108"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "300",
+      "nombre": "Estaci\u00f3n Central",
+      "lat": "-33.463599",
+      "lng": "-70.701278"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "301",
+      "nombre": "Huechuraba",
+      "lat": "-33.374789",
+      "lng": "-70.649025"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "302",
+      "nombre": "Independencia",
+      "lat": "-33.413347",
+      "lng": "-70.666295"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "344",
+      "nombre": "Isla De Maipo",
+      "lat": "-33.747420",
+      "lng": "-70.900116"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "303",
+      "nombre": "La Cisterna",
+      "lat": "-33.529919",
+      "lng": "-70.663584"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "304",
+      "nombre": "La Florida",
+      "lat": "-33.537088",
+      "lng": "-70.586124"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "305",
+      "nombre": "La Granja",
+      "lat": "-33.532433",
+      "lng": "-70.623861"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "306",
+      "nombre": "La Pintana",
+      "lat": "-33.587773",
+      "lng": "-70.633397"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "307",
+      "nombre": "La Reina",
+      "lat": "-33.446470",
+      "lng": "-70.546141"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "331",
+      "nombre": "Lampa",
+      "lat": "-33.285037",
+      "lng": "-70.877380"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "308",
+      "nombre": "Las Condes",
+      "lat": "-33.409332",
+      "lng": "-70.567308"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "309",
+      "nombre": "Lo Barnechea",
+      "lat": "-33.357689",
+      "lng": "-70.511874"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "310",
+      "nombre": "Lo Espejo",
+      "lat": "-33.519326",
+      "lng": "-70.691010"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "311",
+      "nombre": "Lo Prado",
+      "lat": "-33.446574",
+      "lng": "-70.722864"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "312",
+      "nombre": "Macul",
+      "lat": "-33.490635",
+      "lng": "-70.599213"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "313",
+      "nombre": "Maipu",
+      "lat": "-33.521463",
+      "lng": "-70.762566"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "340",
+      "nombre": "Maria Pinto",
+      "lat": "-33.517241",
+      "lng": "-71.123586"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "337",
+      "nombre": "Melipilla",
+      "lat": "-33.686780",
+      "lng": "-71.216045"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "314",
+      "nombre": "\u00d1u\u00f1oa",
+      "lat": "-33.459518",
+      "lng": "-70.597858"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "345",
+      "nombre": "Padre Hurtado",
+      "lat": "-33.575862",
+      "lng": "-70.813824"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "336",
+      "nombre": "Paine",
+      "lat": "-33.813328",
+      "lng": "-70.737956"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "315",
+      "nombre": "Pedro Aguirre Cerda",
+      "lat": "-33.490096",
+      "lng": "-70.675792"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "346",
+      "nombre": "Pe\u00f1aflor",
+      "lat": "-33.606497",
+      "lng": "-70.877531"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "316",
+      "nombre": "Pe\u00f1alolen",
+      "lat": "-33.485871",
+      "lng": "-70.547143"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "328",
+      "nombre": "Pirque",
+      "lat": "-33.679667",
+      "lng": "-70.583014"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "317",
+      "nombre": "Providencia",
+      "lat": "-33.431494",
+      "lng": "-70.611057"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "318",
+      "nombre": "Pudahuel",
+      "lat": "-33.4421948",
+      "lng": "-70.7667027"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "327",
+      "nombre": "Puente Alto",
+      "lat": "-33.620226",
+      "lng": "-70.591315"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "319",
+      "nombre": "Quilicura",
+      "lat": "-33.359090",
+      "lng": "-70.728871"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "320",
+      "nombre": "Quinta Normal",
+      "lat": "-33.429280",
+      "lng": "-70.692999"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "321",
+      "nombre": "Recoleta",
+      "lat": "-33.405892",
+      "lng": "-70.638563"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "322",
+      "nombre": "Renca",
+      "lat": "-33.401565",
+      "lng": "-70.707589"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "333",
+      "nombre": "San Bernardo",
+      "lat": "-33.585796",
+      "lng": "-70.699551"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "323",
+      "nombre": "San Joaquin",
+      "lat": "-33.496346",
+      "lng": "-70.626743"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "329",
+      "nombre": "San Jose De Maipo",
+      "lat": "-33.768167",
+      "lng": "-70.276530"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "324",
+      "nombre": "San Miguel",
+      "lat": "-33.495089",
+      "lng": "-70.651496"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "18",
+      "nombre": "San Pedro",
+      "lat": "-33.894642",
+      "lng": "-71.456634"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "325",
+      "nombre": "San Ramon",
+      "lat": "-33.535854",
+      "lng": "-70.644564"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "295",
+      "nombre": "Santiago",
+      "lat": "-33.449288",
+      "lng": "-70.669287"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "342",
+      "nombre": "Talagante",
+      "lat": "-33.664827",
+      "lng": "-70.928011"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "332",
+      "nombre": "Til-Til",
+      "lat": "-33.084425",
+      "lng": "-70.928487"
+    }
+  },
+  {
+    "region": 7,
+    "comunas": {
+      "id": "326",
+      "nombre": "Vitacura",
+      "lat": "-33.386826",
+      "lng": "-70.563540"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "338",
+      "nombre": "Alhue",
+      "lat": "-34.031137",
+      "lng": "-71.100986"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "334",
+      "nombre": "Buin",
+      "lat": "-33.731915",
+      "lng": "-70.742231"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "335",
+      "nombre": "Calera De Tango",
+      "lat": "-33.628194",
+      "lng": "-70.770057"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "296",
+      "nombre": "Cerrillos",
+      "lat": "-33.500749",
+      "lng": "-70.709519"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "297",
+      "nombre": "Cerro Navia",
+      "lat": "-33.434858",
+      "lng": "-70.730044"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "330",
+      "nombre": "Colina",
+      "lat": "-33.204807",
+      "lng": "-70.675752"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "298",
+      "nombre": "Conchali",
+      "lat": "-33.383446",
+      "lng": "-70.677602"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "339",
+      "nombre": "Curacavi",
+      "lat": "-33.398397",
+      "lng": "-71.127384"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "299",
+      "nombre": "El Bosque",
+      "lat": "-33.564028",
+      "lng": "-70.675615"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "343",
+      "nombre": "El Monte",
+      "lat": "-33.681842",
+      "lng": "-70.985108"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "300",
+      "nombre": "Estaci\u00f3n Central",
+      "lat": "-33.463599",
+      "lng": "-70.701278"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "301",
+      "nombre": "Huechuraba",
+      "lat": "-33.374789",
+      "lng": "-70.649025"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "302",
+      "nombre": "Independencia",
+      "lat": "-33.413347",
+      "lng": "-70.666295"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "344",
+      "nombre": "Isla De Maipo",
+      "lat": "-33.747420",
+      "lng": "-70.900116"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "303",
+      "nombre": "La Cisterna",
+      "lat": "-33.529919",
+      "lng": "-70.663584"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "304",
+      "nombre": "La Florida",
+      "lat": "-33.537088",
+      "lng": "-70.586124"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "305",
+      "nombre": "La Granja",
+      "lat": "-33.532433",
+      "lng": "-70.623861"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "306",
+      "nombre": "La Pintana",
+      "lat": "-33.587773",
+      "lng": "-70.633397"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "307",
+      "nombre": "La Reina",
+      "lat": "-33.446470",
+      "lng": "-70.546141"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "331",
+      "nombre": "Lampa",
+      "lat": "-33.285037",
+      "lng": "-70.877380"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "308",
+      "nombre": "Las Condes",
+      "lat": "-33.409332",
+      "lng": "-70.567308"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "309",
+      "nombre": "Lo Barnechea",
+      "lat": "-33.357689",
+      "lng": "-70.511874"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "310",
+      "nombre": "Lo Espejo",
+      "lat": "-33.519326",
+      "lng": "-70.691010"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "311",
+      "nombre": "Lo Prado",
+      "lat": "-33.446574",
+      "lng": "-70.722864"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "312",
+      "nombre": "Macul",
+      "lat": "-33.490635",
+      "lng": "-70.599213"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "313",
+      "nombre": "Maipu",
+      "lat": "-33.521463",
+      "lng": "-70.762566"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "340",
+      "nombre": "Maria Pinto",
+      "lat": "-33.517241",
+      "lng": "-71.123586"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "337",
+      "nombre": "Melipilla",
+      "lat": "-33.686780",
+      "lng": "-71.216045"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "314",
+      "nombre": "\u00d1u\u00f1oa",
+      "lat": "-33.459518",
+      "lng": "-70.597858"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "345",
+      "nombre": "Padre Hurtado",
+      "lat": "-33.575862",
+      "lng": "-70.813824"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "336",
+      "nombre": "Paine",
+      "lat": "-33.813328",
+      "lng": "-70.737956"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "315",
+      "nombre": "Pedro Aguirre Cerda",
+      "lat": "-33.490096",
+      "lng": "-70.675792"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "346",
+      "nombre": "Pe\u00f1aflor",
+      "lat": "-33.606497",
+      "lng": "-70.877531"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "316",
+      "nombre": "Pe\u00f1alolen",
+      "lat": "-33.485871",
+      "lng": "-70.547143"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "328",
+      "nombre": "Pirque",
+      "lat": "-33.679667",
+      "lng": "-70.583014"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "317",
+      "nombre": "Providencia",
+      "lat": "-33.431494",
+      "lng": "-70.611057"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "318",
+      "nombre": "Pudahuel",
+      "lat": "-33.4421948",
+      "lng": "-70.7667027"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "327",
+      "nombre": "Puente Alto",
+      "lat": "-33.620226",
+      "lng": "-70.591315"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "319",
+      "nombre": "Quilicura",
+      "lat": "-33.359090",
+      "lng": "-70.728871"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "320",
+      "nombre": "Quinta Normal",
+      "lat": "-33.429280",
+      "lng": "-70.692999"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "321",
+      "nombre": "Recoleta",
+      "lat": "-33.405892",
+      "lng": "-70.638563"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "322",
+      "nombre": "Renca",
+      "lat": "-33.401565",
+      "lng": "-70.707589"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "333",
+      "nombre": "San Bernardo",
+      "lat": "-33.585796",
+      "lng": "-70.699551"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "323",
+      "nombre": "San Joaquin",
+      "lat": "-33.496346",
+      "lng": "-70.626743"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "329",
+      "nombre": "San Jose De Maipo",
+      "lat": "-33.768167",
+      "lng": "-70.276530"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "324",
+      "nombre": "San Miguel",
+      "lat": "-33.495089",
+      "lng": "-70.651496"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "18",
+      "nombre": "San Pedro",
+      "lat": "-33.894642",
+      "lng": "-71.456634"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "325",
+      "nombre": "San Ramon",
+      "lat": "-33.535854",
+      "lng": "-70.644564"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "295",
+      "nombre": "Santiago",
+      "lat": "-33.449288",
+      "lng": "-70.669287"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "342",
+      "nombre": "Talagante",
+      "lat": "-33.664827",
+      "lng": "-70.928011"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "332",
+      "nombre": "Til-Til",
+      "lat": "-33.084425",
+      "lng": "-70.928487"
+    }
+  },
+  {
+    "region": 16,
+    "comunas": {
+      "id": "326",
+      "nombre": "Vitacura",
+      "lat": "-33.386826",
+      "lng": "-70.563540"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "338",
+      "nombre": "Alhue",
+      "lat": "-34.031137",
+      "lng": "-71.100986"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "334",
+      "nombre": "Buin",
+      "lat": "-33.731915",
+      "lng": "-70.742231"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "335",
+      "nombre": "Calera De Tango",
+      "lat": "-33.628194",
+      "lng": "-70.770057"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "296",
+      "nombre": "Cerrillos",
+      "lat": "-33.500749",
+      "lng": "-70.709519"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "297",
+      "nombre": "Cerro Navia",
+      "lat": "-33.434858",
+      "lng": "-70.730044"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "330",
+      "nombre": "Colina",
+      "lat": "-33.204807",
+      "lng": "-70.675752"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "298",
+      "nombre": "Conchali",
+      "lat": "-33.383446",
+      "lng": "-70.677602"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "339",
+      "nombre": "Curacavi",
+      "lat": "-33.398397",
+      "lng": "-71.127384"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "299",
+      "nombre": "El Bosque",
+      "lat": "-33.564028",
+      "lng": "-70.675615"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "343",
+      "nombre": "El Monte",
+      "lat": "-33.681842",
+      "lng": "-70.985108"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "300",
+      "nombre": "Estaci\u00f3n Central",
+      "lat": "-33.463599",
+      "lng": "-70.701278"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "301",
+      "nombre": "Huechuraba",
+      "lat": "-33.374789",
+      "lng": "-70.649025"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "302",
+      "nombre": "Independencia",
+      "lat": "-33.413347",
+      "lng": "-70.666295"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "344",
+      "nombre": "Isla De Maipo",
+      "lat": "-33.747420",
+      "lng": "-70.900116"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "303",
+      "nombre": "La Cisterna",
+      "lat": "-33.529919",
+      "lng": "-70.663584"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "304",
+      "nombre": "La Florida",
+      "lat": "-33.537088",
+      "lng": "-70.586124"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "305",
+      "nombre": "La Granja",
+      "lat": "-33.532433",
+      "lng": "-70.623861"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "306",
+      "nombre": "La Pintana",
+      "lat": "-33.587773",
+      "lng": "-70.633397"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "307",
+      "nombre": "La Reina",
+      "lat": "-33.446470",
+      "lng": "-70.546141"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "331",
+      "nombre": "Lampa",
+      "lat": "-33.285037",
+      "lng": "-70.877380"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "308",
+      "nombre": "Las Condes",
+      "lat": "-33.409332",
+      "lng": "-70.567308"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "309",
+      "nombre": "Lo Barnechea",
+      "lat": "-33.357689",
+      "lng": "-70.511874"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "310",
+      "nombre": "Lo Espejo",
+      "lat": "-33.519326",
+      "lng": "-70.691010"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "311",
+      "nombre": "Lo Prado",
+      "lat": "-33.446574",
+      "lng": "-70.722864"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "312",
+      "nombre": "Macul",
+      "lat": "-33.490635",
+      "lng": "-70.599213"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "313",
+      "nombre": "Maipu",
+      "lat": "-33.521463",
+      "lng": "-70.762566"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "340",
+      "nombre": "Maria Pinto",
+      "lat": "-33.517241",
+      "lng": "-71.123586"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "337",
+      "nombre": "Melipilla",
+      "lat": "-33.686780",
+      "lng": "-71.216045"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "314",
+      "nombre": "\u00d1u\u00f1oa",
+      "lat": "-33.459518",
+      "lng": "-70.597858"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "345",
+      "nombre": "Padre Hurtado",
+      "lat": "-33.575862",
+      "lng": "-70.813824"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "336",
+      "nombre": "Paine",
+      "lat": "-33.813328",
+      "lng": "-70.737956"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "315",
+      "nombre": "Pedro Aguirre Cerda",
+      "lat": "-33.490096",
+      "lng": "-70.675792"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "346",
+      "nombre": "Pe\u00f1aflor",
+      "lat": "-33.606497",
+      "lng": "-70.877531"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "316",
+      "nombre": "Pe\u00f1alolen",
+      "lat": "-33.485871",
+      "lng": "-70.547143"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "328",
+      "nombre": "Pirque",
+      "lat": "-33.679667",
+      "lng": "-70.583014"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "317",
+      "nombre": "Providencia",
+      "lat": "-33.431494",
+      "lng": "-70.611057"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "318",
+      "nombre": "Pudahuel",
+      "lat": "-33.4421948",
+      "lng": "-70.7667027"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "327",
+      "nombre": "Puente Alto",
+      "lat": "-33.620226",
+      "lng": "-70.591315"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "319",
+      "nombre": "Quilicura",
+      "lat": "-33.359090",
+      "lng": "-70.728871"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "320",
+      "nombre": "Quinta Normal",
+      "lat": "-33.429280",
+      "lng": "-70.692999"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "321",
+      "nombre": "Recoleta",
+      "lat": "-33.405892",
+      "lng": "-70.638563"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "322",
+      "nombre": "Renca",
+      "lat": "-33.401565",
+      "lng": "-70.707589"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "333",
+      "nombre": "San Bernardo",
+      "lat": "-33.585796",
+      "lng": "-70.699551"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "323",
+      "nombre": "San Joaquin",
+      "lat": "-33.496346",
+      "lng": "-70.626743"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "329",
+      "nombre": "San Jose De Maipo",
+      "lat": "-33.768167",
+      "lng": "-70.276530"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "324",
+      "nombre": "San Miguel",
+      "lat": "-33.495089",
+      "lng": "-70.651496"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "18",
+      "nombre": "San Pedro",
+      "lat": "-33.894642",
+      "lng": "-71.456634"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "325",
+      "nombre": "San Ramon",
+      "lat": "-33.535854",
+      "lng": "-70.644564"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "295",
+      "nombre": "Santiago",
+      "lat": "-33.449288",
+      "lng": "-70.669287"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "342",
+      "nombre": "Talagante",
+      "lat": "-33.664827",
+      "lng": "-70.928011"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "332",
+      "nombre": "Til-Til",
+      "lat": "-33.084425",
+      "lng": "-70.928487"
+    }
+  },
+  {
+    "region": 8,
+    "comunas": {
+      "id": "326",
+      "nombre": "Vitacura",
+      "lat": "-33.386826",
+      "lng": "-70.563540"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "338",
+      "nombre": "Alhue",
+      "lat": "-34.031137",
+      "lng": "-71.100986"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "334",
+      "nombre": "Buin",
+      "lat": "-33.731915",
+      "lng": "-70.742231"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "335",
+      "nombre": "Calera De Tango",
+      "lat": "-33.628194",
+      "lng": "-70.770057"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "296",
+      "nombre": "Cerrillos",
+      "lat": "-33.500749",
+      "lng": "-70.709519"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "297",
+      "nombre": "Cerro Navia",
+      "lat": "-33.434858",
+      "lng": "-70.730044"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "330",
+      "nombre": "Colina",
+      "lat": "-33.204807",
+      "lng": "-70.675752"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "298",
+      "nombre": "Conchali",
+      "lat": "-33.383446",
+      "lng": "-70.677602"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "339",
+      "nombre": "Curacavi",
+      "lat": "-33.398397",
+      "lng": "-71.127384"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "299",
+      "nombre": "El Bosque",
+      "lat": "-33.564028",
+      "lng": "-70.675615"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "343",
+      "nombre": "El Monte",
+      "lat": "-33.681842",
+      "lng": "-70.985108"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "300",
+      "nombre": "Estaci\u00f3n Central",
+      "lat": "-33.463599",
+      "lng": "-70.701278"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "301",
+      "nombre": "Huechuraba",
+      "lat": "-33.374789",
+      "lng": "-70.649025"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "302",
+      "nombre": "Independencia",
+      "lat": "-33.413347",
+      "lng": "-70.666295"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "344",
+      "nombre": "Isla De Maipo",
+      "lat": "-33.747420",
+      "lng": "-70.900116"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "303",
+      "nombre": "La Cisterna",
+      "lat": "-33.529919",
+      "lng": "-70.663584"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "304",
+      "nombre": "La Florida",
+      "lat": "-33.537088",
+      "lng": "-70.586124"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "305",
+      "nombre": "La Granja",
+      "lat": "-33.532433",
+      "lng": "-70.623861"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "306",
+      "nombre": "La Pintana",
+      "lat": "-33.587773",
+      "lng": "-70.633397"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "307",
+      "nombre": "La Reina",
+      "lat": "-33.446470",
+      "lng": "-70.546141"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "331",
+      "nombre": "Lampa",
+      "lat": "-33.285037",
+      "lng": "-70.877380"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "308",
+      "nombre": "Las Condes",
+      "lat": "-33.409332",
+      "lng": "-70.567308"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "309",
+      "nombre": "Lo Barnechea",
+      "lat": "-33.357689",
+      "lng": "-70.511874"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "310",
+      "nombre": "Lo Espejo",
+      "lat": "-33.519326",
+      "lng": "-70.691010"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "311",
+      "nombre": "Lo Prado",
+      "lat": "-33.446574",
+      "lng": "-70.722864"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "312",
+      "nombre": "Macul",
+      "lat": "-33.490635",
+      "lng": "-70.599213"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "313",
+      "nombre": "Maipu",
+      "lat": "-33.521463",
+      "lng": "-70.762566"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "340",
+      "nombre": "Maria Pinto",
+      "lat": "-33.517241",
+      "lng": "-71.123586"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "337",
+      "nombre": "Melipilla",
+      "lat": "-33.686780",
+      "lng": "-71.216045"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "314",
+      "nombre": "\u00d1u\u00f1oa",
+      "lat": "-33.459518",
+      "lng": "-70.597858"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "345",
+      "nombre": "Padre Hurtado",
+      "lat": "-33.575862",
+      "lng": "-70.813824"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "336",
+      "nombre": "Paine",
+      "lat": "-33.813328",
+      "lng": "-70.737956"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "315",
+      "nombre": "Pedro Aguirre Cerda",
+      "lat": "-33.490096",
+      "lng": "-70.675792"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "346",
+      "nombre": "Pe\u00f1aflor",
+      "lat": "-33.606497",
+      "lng": "-70.877531"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "316",
+      "nombre": "Pe\u00f1alolen",
+      "lat": "-33.485871",
+      "lng": "-70.547143"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "328",
+      "nombre": "Pirque",
+      "lat": "-33.679667",
+      "lng": "-70.583014"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "317",
+      "nombre": "Providencia",
+      "lat": "-33.431494",
+      "lng": "-70.611057"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "318",
+      "nombre": "Pudahuel",
+      "lat": "-33.4421948",
+      "lng": "-70.7667027"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "327",
+      "nombre": "Puente Alto",
+      "lat": "-33.620226",
+      "lng": "-70.591315"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "319",
+      "nombre": "Quilicura",
+      "lat": "-33.359090",
+      "lng": "-70.728871"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "320",
+      "nombre": "Quinta Normal",
+      "lat": "-33.429280",
+      "lng": "-70.692999"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "321",
+      "nombre": "Recoleta",
+      "lat": "-33.405892",
+      "lng": "-70.638563"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "322",
+      "nombre": "Renca",
+      "lat": "-33.401565",
+      "lng": "-70.707589"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "333",
+      "nombre": "San Bernardo",
+      "lat": "-33.585796",
+      "lng": "-70.699551"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "323",
+      "nombre": "San Joaquin",
+      "lat": "-33.496346",
+      "lng": "-70.626743"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "329",
+      "nombre": "San Jose De Maipo",
+      "lat": "-33.768167",
+      "lng": "-70.276530"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "324",
+      "nombre": "San Miguel",
+      "lat": "-33.495089",
+      "lng": "-70.651496"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "18",
+      "nombre": "San Pedro",
+      "lat": "-33.894642",
+      "lng": "-71.456634"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "325",
+      "nombre": "San Ramon",
+      "lat": "-33.535854",
+      "lng": "-70.644564"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "295",
+      "nombre": "Santiago",
+      "lat": "-33.449288",
+      "lng": "-70.669287"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "342",
+      "nombre": "Talagante",
+      "lat": "-33.664827",
+      "lng": "-70.928011"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "332",
+      "nombre": "Til-Til",
+      "lat": "-33.084425",
+      "lng": "-70.928487"
+    }
+  },
+  {
+    "region": 9,
+    "comunas": {
+      "id": "326",
+      "nombre": "Vitacura",
+      "lat": "-33.386826",
+      "lng": "-70.563540"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "338",
+      "nombre": "Alhue",
+      "lat": "-34.031137",
+      "lng": "-71.100986"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "334",
+      "nombre": "Buin",
+      "lat": "-33.731915",
+      "lng": "-70.742231"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "335",
+      "nombre": "Calera De Tango",
+      "lat": "-33.628194",
+      "lng": "-70.770057"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "296",
+      "nombre": "Cerrillos",
+      "lat": "-33.500749",
+      "lng": "-70.709519"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "297",
+      "nombre": "Cerro Navia",
+      "lat": "-33.434858",
+      "lng": "-70.730044"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "330",
+      "nombre": "Colina",
+      "lat": "-33.204807",
+      "lng": "-70.675752"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "298",
+      "nombre": "Conchali",
+      "lat": "-33.383446",
+      "lng": "-70.677602"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "339",
+      "nombre": "Curacavi",
+      "lat": "-33.398397",
+      "lng": "-71.127384"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "299",
+      "nombre": "El Bosque",
+      "lat": "-33.564028",
+      "lng": "-70.675615"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "343",
+      "nombre": "El Monte",
+      "lat": "-33.681842",
+      "lng": "-70.985108"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "300",
+      "nombre": "Estaci\u00f3n Central",
+      "lat": "-33.463599",
+      "lng": "-70.701278"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "301",
+      "nombre": "Huechuraba",
+      "lat": "-33.374789",
+      "lng": "-70.649025"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "302",
+      "nombre": "Independencia",
+      "lat": "-33.413347",
+      "lng": "-70.666295"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "344",
+      "nombre": "Isla De Maipo",
+      "lat": "-33.747420",
+      "lng": "-70.900116"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "303",
+      "nombre": "La Cisterna",
+      "lat": "-33.529919",
+      "lng": "-70.663584"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "304",
+      "nombre": "La Florida",
+      "lat": "-33.537088",
+      "lng": "-70.586124"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "305",
+      "nombre": "La Granja",
+      "lat": "-33.532433",
+      "lng": "-70.623861"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "306",
+      "nombre": "La Pintana",
+      "lat": "-33.587773",
+      "lng": "-70.633397"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "307",
+      "nombre": "La Reina",
+      "lat": "-33.446470",
+      "lng": "-70.546141"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "331",
+      "nombre": "Lampa",
+      "lat": "-33.285037",
+      "lng": "-70.877380"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "308",
+      "nombre": "Las Condes",
+      "lat": "-33.409332",
+      "lng": "-70.567308"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "309",
+      "nombre": "Lo Barnechea",
+      "lat": "-33.357689",
+      "lng": "-70.511874"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "310",
+      "nombre": "Lo Espejo",
+      "lat": "-33.519326",
+      "lng": "-70.691010"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "311",
+      "nombre": "Lo Prado",
+      "lat": "-33.446574",
+      "lng": "-70.722864"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "312",
+      "nombre": "Macul",
+      "lat": "-33.490635",
+      "lng": "-70.599213"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "313",
+      "nombre": "Maipu",
+      "lat": "-33.521463",
+      "lng": "-70.762566"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "340",
+      "nombre": "Maria Pinto",
+      "lat": "-33.517241",
+      "lng": "-71.123586"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "337",
+      "nombre": "Melipilla",
+      "lat": "-33.686780",
+      "lng": "-71.216045"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "314",
+      "nombre": "\u00d1u\u00f1oa",
+      "lat": "-33.459518",
+      "lng": "-70.597858"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "345",
+      "nombre": "Padre Hurtado",
+      "lat": "-33.575862",
+      "lng": "-70.813824"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "336",
+      "nombre": "Paine",
+      "lat": "-33.813328",
+      "lng": "-70.737956"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "315",
+      "nombre": "Pedro Aguirre Cerda",
+      "lat": "-33.490096",
+      "lng": "-70.675792"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "346",
+      "nombre": "Pe\u00f1aflor",
+      "lat": "-33.606497",
+      "lng": "-70.877531"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "316",
+      "nombre": "Pe\u00f1alolen",
+      "lat": "-33.485871",
+      "lng": "-70.547143"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "328",
+      "nombre": "Pirque",
+      "lat": "-33.679667",
+      "lng": "-70.583014"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "317",
+      "nombre": "Providencia",
+      "lat": "-33.431494",
+      "lng": "-70.611057"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "318",
+      "nombre": "Pudahuel",
+      "lat": "-33.4421948",
+      "lng": "-70.7667027"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "327",
+      "nombre": "Puente Alto",
+      "lat": "-33.620226",
+      "lng": "-70.591315"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "319",
+      "nombre": "Quilicura",
+      "lat": "-33.359090",
+      "lng": "-70.728871"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "320",
+      "nombre": "Quinta Normal",
+      "lat": "-33.429280",
+      "lng": "-70.692999"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "321",
+      "nombre": "Recoleta",
+      "lat": "-33.405892",
+      "lng": "-70.638563"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "322",
+      "nombre": "Renca",
+      "lat": "-33.401565",
+      "lng": "-70.707589"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "333",
+      "nombre": "San Bernardo",
+      "lat": "-33.585796",
+      "lng": "-70.699551"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "323",
+      "nombre": "San Joaquin",
+      "lat": "-33.496346",
+      "lng": "-70.626743"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "329",
+      "nombre": "San Jose De Maipo",
+      "lat": "-33.768167",
+      "lng": "-70.276530"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "324",
+      "nombre": "San Miguel",
+      "lat": "-33.495089",
+      "lng": "-70.651496"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "18",
+      "nombre": "San Pedro",
+      "lat": "-33.894642",
+      "lng": "-71.456634"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "325",
+      "nombre": "San Ramon",
+      "lat": "-33.535854",
+      "lng": "-70.644564"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "295",
+      "nombre": "Santiago",
+      "lat": "-33.449288",
+      "lng": "-70.669287"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "342",
+      "nombre": "Talagante",
+      "lat": "-33.664827",
+      "lng": "-70.928011"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "332",
+      "nombre": "Til-Til",
+      "lat": "-33.084425",
+      "lng": "-70.928487"
+    }
+  },
+  {
+    "region": 14,
+    "comunas": {
+      "id": "326",
+      "nombre": "Vitacura",
+      "lat": "-33.386826",
+      "lng": "-70.563540"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "338",
+      "nombre": "Alhue",
+      "lat": "-34.031137",
+      "lng": "-71.100986"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "334",
+      "nombre": "Buin",
+      "lat": "-33.731915",
+      "lng": "-70.742231"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "335",
+      "nombre": "Calera De Tango",
+      "lat": "-33.628194",
+      "lng": "-70.770057"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "296",
+      "nombre": "Cerrillos",
+      "lat": "-33.500749",
+      "lng": "-70.709519"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "297",
+      "nombre": "Cerro Navia",
+      "lat": "-33.434858",
+      "lng": "-70.730044"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "330",
+      "nombre": "Colina",
+      "lat": "-33.204807",
+      "lng": "-70.675752"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "298",
+      "nombre": "Conchali",
+      "lat": "-33.383446",
+      "lng": "-70.677602"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "339",
+      "nombre": "Curacavi",
+      "lat": "-33.398397",
+      "lng": "-71.127384"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "299",
+      "nombre": "El Bosque",
+      "lat": "-33.564028",
+      "lng": "-70.675615"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "343",
+      "nombre": "El Monte",
+      "lat": "-33.681842",
+      "lng": "-70.985108"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "300",
+      "nombre": "Estaci\u00f3n Central",
+      "lat": "-33.463599",
+      "lng": "-70.701278"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "301",
+      "nombre": "Huechuraba",
+      "lat": "-33.374789",
+      "lng": "-70.649025"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "302",
+      "nombre": "Independencia",
+      "lat": "-33.413347",
+      "lng": "-70.666295"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "344",
+      "nombre": "Isla De Maipo",
+      "lat": "-33.747420",
+      "lng": "-70.900116"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "303",
+      "nombre": "La Cisterna",
+      "lat": "-33.529919",
+      "lng": "-70.663584"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "304",
+      "nombre": "La Florida",
+      "lat": "-33.537088",
+      "lng": "-70.586124"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "305",
+      "nombre": "La Granja",
+      "lat": "-33.532433",
+      "lng": "-70.623861"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "306",
+      "nombre": "La Pintana",
+      "lat": "-33.587773",
+      "lng": "-70.633397"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "307",
+      "nombre": "La Reina",
+      "lat": "-33.446470",
+      "lng": "-70.546141"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "331",
+      "nombre": "Lampa",
+      "lat": "-33.285037",
+      "lng": "-70.877380"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "308",
+      "nombre": "Las Condes",
+      "lat": "-33.409332",
+      "lng": "-70.567308"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "309",
+      "nombre": "Lo Barnechea",
+      "lat": "-33.357689",
+      "lng": "-70.511874"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "310",
+      "nombre": "Lo Espejo",
+      "lat": "-33.519326",
+      "lng": "-70.691010"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "311",
+      "nombre": "Lo Prado",
+      "lat": "-33.446574",
+      "lng": "-70.722864"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "312",
+      "nombre": "Macul",
+      "lat": "-33.490635",
+      "lng": "-70.599213"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "313",
+      "nombre": "Maipu",
+      "lat": "-33.521463",
+      "lng": "-70.762566"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "340",
+      "nombre": "Maria Pinto",
+      "lat": "-33.517241",
+      "lng": "-71.123586"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "337",
+      "nombre": "Melipilla",
+      "lat": "-33.686780",
+      "lng": "-71.216045"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "314",
+      "nombre": "\u00d1u\u00f1oa",
+      "lat": "-33.459518",
+      "lng": "-70.597858"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "345",
+      "nombre": "Padre Hurtado",
+      "lat": "-33.575862",
+      "lng": "-70.813824"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "336",
+      "nombre": "Paine",
+      "lat": "-33.813328",
+      "lng": "-70.737956"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "315",
+      "nombre": "Pedro Aguirre Cerda",
+      "lat": "-33.490096",
+      "lng": "-70.675792"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "346",
+      "nombre": "Pe\u00f1aflor",
+      "lat": "-33.606497",
+      "lng": "-70.877531"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "316",
+      "nombre": "Pe\u00f1alolen",
+      "lat": "-33.485871",
+      "lng": "-70.547143"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "328",
+      "nombre": "Pirque",
+      "lat": "-33.679667",
+      "lng": "-70.583014"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "317",
+      "nombre": "Providencia",
+      "lat": "-33.431494",
+      "lng": "-70.611057"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "318",
+      "nombre": "Pudahuel",
+      "lat": "-33.4421948",
+      "lng": "-70.7667027"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "327",
+      "nombre": "Puente Alto",
+      "lat": "-33.620226",
+      "lng": "-70.591315"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "319",
+      "nombre": "Quilicura",
+      "lat": "-33.359090",
+      "lng": "-70.728871"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "320",
+      "nombre": "Quinta Normal",
+      "lat": "-33.429280",
+      "lng": "-70.692999"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "321",
+      "nombre": "Recoleta",
+      "lat": "-33.405892",
+      "lng": "-70.638563"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "322",
+      "nombre": "Renca",
+      "lat": "-33.401565",
+      "lng": "-70.707589"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "333",
+      "nombre": "San Bernardo",
+      "lat": "-33.585796",
+      "lng": "-70.699551"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "323",
+      "nombre": "San Joaquin",
+      "lat": "-33.496346",
+      "lng": "-70.626743"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "329",
+      "nombre": "San Jose De Maipo",
+      "lat": "-33.768167",
+      "lng": "-70.276530"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "324",
+      "nombre": "San Miguel",
+      "lat": "-33.495089",
+      "lng": "-70.651496"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "18",
+      "nombre": "San Pedro",
+      "lat": "-33.894642",
+      "lng": "-71.456634"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "325",
+      "nombre": "San Ramon",
+      "lat": "-33.535854",
+      "lng": "-70.644564"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "295",
+      "nombre": "Santiago",
+      "lat": "-33.449288",
+      "lng": "-70.669287"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "342",
+      "nombre": "Talagante",
+      "lat": "-33.664827",
+      "lng": "-70.928011"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "332",
+      "nombre": "Til-Til",
+      "lat": "-33.084425",
+      "lng": "-70.928487"
+    }
+  },
+  {
+    "region": 10,
+    "comunas": {
+      "id": "326",
+      "nombre": "Vitacura",
+      "lat": "-33.386826",
+      "lng": "-70.563540"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "338",
+      "nombre": "Alhue",
+      "lat": "-34.031137",
+      "lng": "-71.100986"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "334",
+      "nombre": "Buin",
+      "lat": "-33.731915",
+      "lng": "-70.742231"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "335",
+      "nombre": "Calera De Tango",
+      "lat": "-33.628194",
+      "lng": "-70.770057"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "296",
+      "nombre": "Cerrillos",
+      "lat": "-33.500749",
+      "lng": "-70.709519"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "297",
+      "nombre": "Cerro Navia",
+      "lat": "-33.434858",
+      "lng": "-70.730044"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "330",
+      "nombre": "Colina",
+      "lat": "-33.204807",
+      "lng": "-70.675752"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "298",
+      "nombre": "Conchali",
+      "lat": "-33.383446",
+      "lng": "-70.677602"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "339",
+      "nombre": "Curacavi",
+      "lat": "-33.398397",
+      "lng": "-71.127384"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "299",
+      "nombre": "El Bosque",
+      "lat": "-33.564028",
+      "lng": "-70.675615"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "343",
+      "nombre": "El Monte",
+      "lat": "-33.681842",
+      "lng": "-70.985108"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "300",
+      "nombre": "Estaci\u00f3n Central",
+      "lat": "-33.463599",
+      "lng": "-70.701278"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "301",
+      "nombre": "Huechuraba",
+      "lat": "-33.374789",
+      "lng": "-70.649025"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "302",
+      "nombre": "Independencia",
+      "lat": "-33.413347",
+      "lng": "-70.666295"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "344",
+      "nombre": "Isla De Maipo",
+      "lat": "-33.747420",
+      "lng": "-70.900116"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "303",
+      "nombre": "La Cisterna",
+      "lat": "-33.529919",
+      "lng": "-70.663584"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "304",
+      "nombre": "La Florida",
+      "lat": "-33.537088",
+      "lng": "-70.586124"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "305",
+      "nombre": "La Granja",
+      "lat": "-33.532433",
+      "lng": "-70.623861"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "306",
+      "nombre": "La Pintana",
+      "lat": "-33.587773",
+      "lng": "-70.633397"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "307",
+      "nombre": "La Reina",
+      "lat": "-33.446470",
+      "lng": "-70.546141"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "331",
+      "nombre": "Lampa",
+      "lat": "-33.285037",
+      "lng": "-70.877380"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "308",
+      "nombre": "Las Condes",
+      "lat": "-33.409332",
+      "lng": "-70.567308"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "309",
+      "nombre": "Lo Barnechea",
+      "lat": "-33.357689",
+      "lng": "-70.511874"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "310",
+      "nombre": "Lo Espejo",
+      "lat": "-33.519326",
+      "lng": "-70.691010"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "311",
+      "nombre": "Lo Prado",
+      "lat": "-33.446574",
+      "lng": "-70.722864"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "312",
+      "nombre": "Macul",
+      "lat": "-33.490635",
+      "lng": "-70.599213"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "313",
+      "nombre": "Maipu",
+      "lat": "-33.521463",
+      "lng": "-70.762566"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "340",
+      "nombre": "Maria Pinto",
+      "lat": "-33.517241",
+      "lng": "-71.123586"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "337",
+      "nombre": "Melipilla",
+      "lat": "-33.686780",
+      "lng": "-71.216045"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "314",
+      "nombre": "\u00d1u\u00f1oa",
+      "lat": "-33.459518",
+      "lng": "-70.597858"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "345",
+      "nombre": "Padre Hurtado",
+      "lat": "-33.575862",
+      "lng": "-70.813824"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "336",
+      "nombre": "Paine",
+      "lat": "-33.813328",
+      "lng": "-70.737956"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "315",
+      "nombre": "Pedro Aguirre Cerda",
+      "lat": "-33.490096",
+      "lng": "-70.675792"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "346",
+      "nombre": "Pe\u00f1aflor",
+      "lat": "-33.606497",
+      "lng": "-70.877531"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "316",
+      "nombre": "Pe\u00f1alolen",
+      "lat": "-33.485871",
+      "lng": "-70.547143"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "328",
+      "nombre": "Pirque",
+      "lat": "-33.679667",
+      "lng": "-70.583014"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "317",
+      "nombre": "Providencia",
+      "lat": "-33.431494",
+      "lng": "-70.611057"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "318",
+      "nombre": "Pudahuel",
+      "lat": "-33.4421948",
+      "lng": "-70.7667027"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "327",
+      "nombre": "Puente Alto",
+      "lat": "-33.620226",
+      "lng": "-70.591315"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "319",
+      "nombre": "Quilicura",
+      "lat": "-33.359090",
+      "lng": "-70.728871"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "320",
+      "nombre": "Quinta Normal",
+      "lat": "-33.429280",
+      "lng": "-70.692999"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "321",
+      "nombre": "Recoleta",
+      "lat": "-33.405892",
+      "lng": "-70.638563"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "322",
+      "nombre": "Renca",
+      "lat": "-33.401565",
+      "lng": "-70.707589"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "333",
+      "nombre": "San Bernardo",
+      "lat": "-33.585796",
+      "lng": "-70.699551"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "323",
+      "nombre": "San Joaquin",
+      "lat": "-33.496346",
+      "lng": "-70.626743"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "329",
+      "nombre": "San Jose De Maipo",
+      "lat": "-33.768167",
+      "lng": "-70.276530"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "324",
+      "nombre": "San Miguel",
+      "lat": "-33.495089",
+      "lng": "-70.651496"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "18",
+      "nombre": "San Pedro",
+      "lat": "-33.894642",
+      "lng": "-71.456634"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "325",
+      "nombre": "San Ramon",
+      "lat": "-33.535854",
+      "lng": "-70.644564"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "295",
+      "nombre": "Santiago",
+      "lat": "-33.449288",
+      "lng": "-70.669287"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "342",
+      "nombre": "Talagante",
+      "lat": "-33.664827",
+      "lng": "-70.928011"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "332",
+      "nombre": "Til-Til",
+      "lat": "-33.084425",
+      "lng": "-70.928487"
+    }
+  },
+  {
+    "region": 11,
+    "comunas": {
+      "id": "326",
+      "nombre": "Vitacura",
+      "lat": "-33.386826",
+      "lng": "-70.563540"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "338",
+      "nombre": "Alhue",
+      "lat": "-34.031137",
+      "lng": "-71.100986"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "334",
+      "nombre": "Buin",
+      "lat": "-33.731915",
+      "lng": "-70.742231"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "335",
+      "nombre": "Calera De Tango",
+      "lat": "-33.628194",
+      "lng": "-70.770057"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "296",
+      "nombre": "Cerrillos",
+      "lat": "-33.500749",
+      "lng": "-70.709519"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "297",
+      "nombre": "Cerro Navia",
+      "lat": "-33.434858",
+      "lng": "-70.730044"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "330",
+      "nombre": "Colina",
+      "lat": "-33.204807",
+      "lng": "-70.675752"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "298",
+      "nombre": "Conchali",
+      "lat": "-33.383446",
+      "lng": "-70.677602"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "339",
+      "nombre": "Curacavi",
+      "lat": "-33.398397",
+      "lng": "-71.127384"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "299",
+      "nombre": "El Bosque",
+      "lat": "-33.564028",
+      "lng": "-70.675615"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "343",
+      "nombre": "El Monte",
+      "lat": "-33.681842",
+      "lng": "-70.985108"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "300",
+      "nombre": "Estaci\u00f3n Central",
+      "lat": "-33.463599",
+      "lng": "-70.701278"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "301",
+      "nombre": "Huechuraba",
+      "lat": "-33.374789",
+      "lng": "-70.649025"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "302",
+      "nombre": "Independencia",
+      "lat": "-33.413347",
+      "lng": "-70.666295"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "344",
+      "nombre": "Isla De Maipo",
+      "lat": "-33.747420",
+      "lng": "-70.900116"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "303",
+      "nombre": "La Cisterna",
+      "lat": "-33.529919",
+      "lng": "-70.663584"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "304",
+      "nombre": "La Florida",
+      "lat": "-33.537088",
+      "lng": "-70.586124"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "305",
+      "nombre": "La Granja",
+      "lat": "-33.532433",
+      "lng": "-70.623861"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "306",
+      "nombre": "La Pintana",
+      "lat": "-33.587773",
+      "lng": "-70.633397"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "307",
+      "nombre": "La Reina",
+      "lat": "-33.446470",
+      "lng": "-70.546141"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "331",
+      "nombre": "Lampa",
+      "lat": "-33.285037",
+      "lng": "-70.877380"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "308",
+      "nombre": "Las Condes",
+      "lat": "-33.409332",
+      "lng": "-70.567308"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "309",
+      "nombre": "Lo Barnechea",
+      "lat": "-33.357689",
+      "lng": "-70.511874"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "310",
+      "nombre": "Lo Espejo",
+      "lat": "-33.519326",
+      "lng": "-70.691010"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "311",
+      "nombre": "Lo Prado",
+      "lat": "-33.446574",
+      "lng": "-70.722864"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "312",
+      "nombre": "Macul",
+      "lat": "-33.490635",
+      "lng": "-70.599213"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "313",
+      "nombre": "Maipu",
+      "lat": "-33.521463",
+      "lng": "-70.762566"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "340",
+      "nombre": "Maria Pinto",
+      "lat": "-33.517241",
+      "lng": "-71.123586"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "337",
+      "nombre": "Melipilla",
+      "lat": "-33.686780",
+      "lng": "-71.216045"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "314",
+      "nombre": "\u00d1u\u00f1oa",
+      "lat": "-33.459518",
+      "lng": "-70.597858"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "345",
+      "nombre": "Padre Hurtado",
+      "lat": "-33.575862",
+      "lng": "-70.813824"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "336",
+      "nombre": "Paine",
+      "lat": "-33.813328",
+      "lng": "-70.737956"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "315",
+      "nombre": "Pedro Aguirre Cerda",
+      "lat": "-33.490096",
+      "lng": "-70.675792"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "346",
+      "nombre": "Pe\u00f1aflor",
+      "lat": "-33.606497",
+      "lng": "-70.877531"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "316",
+      "nombre": "Pe\u00f1alolen",
+      "lat": "-33.485871",
+      "lng": "-70.547143"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "328",
+      "nombre": "Pirque",
+      "lat": "-33.679667",
+      "lng": "-70.583014"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "317",
+      "nombre": "Providencia",
+      "lat": "-33.431494",
+      "lng": "-70.611057"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "318",
+      "nombre": "Pudahuel",
+      "lat": "-33.4421948",
+      "lng": "-70.7667027"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "327",
+      "nombre": "Puente Alto",
+      "lat": "-33.620226",
+      "lng": "-70.591315"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "319",
+      "nombre": "Quilicura",
+      "lat": "-33.359090",
+      "lng": "-70.728871"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "320",
+      "nombre": "Quinta Normal",
+      "lat": "-33.429280",
+      "lng": "-70.692999"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "321",
+      "nombre": "Recoleta",
+      "lat": "-33.405892",
+      "lng": "-70.638563"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "322",
+      "nombre": "Renca",
+      "lat": "-33.401565",
+      "lng": "-70.707589"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "333",
+      "nombre": "San Bernardo",
+      "lat": "-33.585796",
+      "lng": "-70.699551"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "323",
+      "nombre": "San Joaquin",
+      "lat": "-33.496346",
+      "lng": "-70.626743"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "329",
+      "nombre": "San Jose De Maipo",
+      "lat": "-33.768167",
+      "lng": "-70.276530"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "324",
+      "nombre": "San Miguel",
+      "lat": "-33.495089",
+      "lng": "-70.651496"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "18",
+      "nombre": "San Pedro",
+      "lat": "-33.894642",
+      "lng": "-71.456634"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "325",
+      "nombre": "San Ramon",
+      "lat": "-33.535854",
+      "lng": "-70.644564"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "295",
+      "nombre": "Santiago",
+      "lat": "-33.449288",
+      "lng": "-70.669287"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "342",
+      "nombre": "Talagante",
+      "lat": "-33.664827",
+      "lng": "-70.928011"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "332",
+      "nombre": "Til-Til",
+      "lat": "-33.084425",
+      "lng": "-70.928487"
+    }
+  },
+  {
+    "region": 12,
+    "comunas": {
+      "id": "326",
+      "nombre": "Vitacura",
+      "lat": "-33.386826",
+      "lng": "-70.563540"
+    }
+  }
+]
