@@ -11,6 +11,7 @@ def read_csv(filename):
 def read_json(filename):
     with open(filename, 'r') as file:
         data = json.load(file)
+        
     return data
 
 
@@ -27,19 +28,24 @@ csv_data = read_csv(csv_filename)
 # Leer los datos del archivo JSON
 json_data = read_json(json_filename)
 
-for c in csv_data:
-    cm_value = c['CM']
-    if pd.notna(cm_value):
-        cm_value = int(cm_value)
-        matching_comuna = next((j for j in json_data if j['comuna_id'] == cm_value), None)
-        if matching_comuna:
-            c['comuna'] = matching_comuna['nombre']
-        else:
-            c['comuna'] = ""
-    else:
-        c['comuna'] = ""
+comunas = json_data
 
-# Crear un DataFrame con los datos combinados
+
+for c in csv_data:
+    for j in json_data:
+        try: 
+            if pd.isna(c['CM']) is not True:
+                id_json = int(j['comuna_id'])
+                id_csv = int(c['CM'])
+                if id_json == id_csv:
+                    c['comuna'] = j['nombre']
+            else: 
+                c['comuna'] = 0
+        except ValueError as e:
+            print(j['comuna_id'])
+            print(c['CM'])
+            print(e)
+# print(csv_data)
 combined_data = pd.DataFrame(csv_data)
 
 # Escribir los datos combinados en un nuevo archivo CSV
