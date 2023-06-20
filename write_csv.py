@@ -15,7 +15,6 @@ def get_pharmacy_data(pharmacy_im, lt, lg, tp):
         'Accept-Language': 'es-AR,es-419;q=0.9,es;q=0.8',
         'Connection': 'keep-alive',
         'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
-        # 'Cookie': 'edf2b787d71200dafd83c3d361162bdf1c672cd1=b9rbs0br0t3qhmk0ebuuus5gt4; _gid=GA1.2.197336248.1686750674; _hjSessionUser_1899797=eyJpZCI6ImMyMDJhNmVlLTg5NjctNTBkNi05MmU2LWU2NzliNzVkNmVkYiIsImNyZWF0ZWQiOjE2ODY3NTA2NzQxNzIsImV4aXN0aW5nIjp0cnVlfQ==; _ga=GA1.1.142835544.1686750135; _ga_K0XLHJL8YF=GS1.1.1686750674.1.1.1686750979.0.0.0; _ga_S5W7DTQL54=GS1.1.1686750134.1.1.1686751898.0.0.0',
         'Origin': 'https://seremienlinea.minsal.cl',
         'Referer': 'https://seremienlinea.minsal.cl/asdigital/index.php?mfarmacias',
         'Sec-Fetch-Dest': 'empty',
